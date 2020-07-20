@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="827"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="207" y="316" type="line"/>
+      <point x="207" y="428" type="line"/>
+      <point x="597" y="428" type="line"/>
+      <point x="597" y="316" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="152" type="line"/>
+      <point x="119" y="109" type="line"/>
+      <point x="119" y="673" type="line"/>
+      <point x="166" y="625" type="line"/>
+      <point x="34" y="625" type="line"/>
+      <point x="34" y="750" type="line"/>
+      <point x="318" y="750" type="line"/>
+      <point x="318" y="647" type="line"/>
+      <point x="215" y="598" type="line"/>
+      <point x="249" y="641" type="line"/>
+      <point x="249" y="81" type="line"/>
+      <point x="208" y="125" type="line"/>
+      <point x="334" y="125" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="103" type="line"/>
+    </contour>
+    <contour>
+      <point x="671" y="598" type="line"/>
+      <point x="705" y="641" type="line"/>
+      <point x="705" y="77" type="line"/>
+      <point x="658" y="125" type="line"/>
+      <point x="790" y="125" type="line"/>
+      <point x="790" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="103" type="line"/>
+      <point x="609" y="152" type="line"/>
+      <point x="575" y="109" type="line"/>
+      <point x="575" y="669" type="line"/>
+      <point x="616" y="625" type="line"/>
+      <point x="490" y="625" type="line"/>
+      <point x="490" y="750" type="line"/>
+      <point x="774" y="750" type="line"/>
+      <point x="774" y="647" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-07-16 19:46:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>
