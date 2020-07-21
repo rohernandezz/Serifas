@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
   <advance width="827"/>
   <unicode hex="0048"/>
@@ -46,10 +46,15 @@
       <point x="774" y="647" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="647"/>
+  <guideline angle="0" x="0" y="624"/>
+  <guideline angle="0" x="0" y="103"/>
+  <guideline angle="0" x="0" y="136"/>
+  <guideline angle="0" x="0" y="613"/>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020-07-16 19:46:31 +0000</string>
-    </dict>
+  <dict>
+    <key>com.schriftgestaltung.Glyphs.lastChange</key>
+    <string>2020-07-16 19:46:31 +0000</string>
+  </dict>
   </lib>
 </glyph>
