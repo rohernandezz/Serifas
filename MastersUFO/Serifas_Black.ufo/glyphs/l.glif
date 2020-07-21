@@ -1,35 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="368"/>
-  <unicode hex="006C"/>
-  <guideline y="96" identifier="wypexluRHm"/>
-  <guideline y="145" identifier="cPpAM42bAs"/>
-  <outline>
-    <contour>
-      <point x="354" y="0" type="line"/>
-      <point x="24" y="0" type="line"/>
-      <point x="58" y="51"/>
-      <point x="89" y="121"/>
-      <point x="89" y="218" type="curve" smooth="yes"/>
-      <point x="89" y="223" type="line"/>
-      <point x="89" y="644" type="line"/>
-      <point x="133" y="590" type="line"/>
-      <point x="-7" y="649" type="line"/>
-      <point x="-7" y="765" type="line"/>
-      <point x="312" y="765" type="line"/>
-      <point x="257" y="691"/>
-      <point x="241" y="655"/>
-      <point x="241" y="541" type="curve" smooth="yes"/>
-      <point x="241" y="538" type="line"/>
-      <point x="241" y="143" type="line"/>
-      <point x="193" y="156" type="line"/>
-      <point x="354" y="126" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.4,1,0.4,1</string>
-    </dict>
-  </lib>
+	<advance width="438"/>
+	<unicode hex="006C"/>
+	<guideline x="-15" y="96" angle="0"/>
+	<guideline x="-15" y="145" angle="0"/>
+	<outline>
+		<contour>
+			<point x="69" y="0" type="line"/>
+			<point x="369" y="0" type="line"/>
+			<point x="369" y="193" type="line"/>
+			<point x="267" y="235" type="line"/>
+			<point x="309" y="173" type="line"/>
+			<point x="309" y="741" type="line"/>
+			<point x="69" y="741" type="line"/>
+			<point x="69" y="549" type="line"/>
+			<point x="174" y="549" type="line"/>
+			<point x="129" y="594" type="line"/>
+			<point x="129" y="173" type="line"/>
+			<point x="171" y="235" type="line"/>
+			<point x="69" y="193" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-07-21 01:11:11 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>i</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>i</string>
+			<key>public.markColor</key>
+			<string>0.4,1,0.4,1</string>
+		</dict>
+	</lib>
 </glyph>
