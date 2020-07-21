@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-	<advance width="438"/>
+	<advance width="456"/>
 	<unicode hex="006C"/>
-	<guideline x="-15" y="96" angle="0"/>
-	<guideline x="-15" y="145" angle="0"/>
+	<guideline x="-6" y="96" angle="0"/>
+	<guideline x="-6" y="145" angle="0"/>
 	<outline>
 		<contour>
-			<point x="69" y="0" type="line"/>
-			<point x="369" y="0" type="line"/>
-			<point x="369" y="193" type="line"/>
-			<point x="267" y="235" type="line"/>
-			<point x="309" y="173" type="line"/>
-			<point x="309" y="741" type="line"/>
-			<point x="69" y="741" type="line"/>
-			<point x="69" y="549" type="line"/>
-			<point x="174" y="549" type="line"/>
-			<point x="129" y="594" type="line"/>
-			<point x="129" y="173" type="line"/>
-			<point x="171" y="235" type="line"/>
-			<point x="69" y="193" type="line"/>
+			<point x="78" y="0" type="line"/>
+			<point x="378" y="0" type="line"/>
+			<point x="378" y="193" type="line"/>
+			<point x="276" y="235" type="line"/>
+			<point x="318" y="173" type="line"/>
+			<point x="318" y="741" type="line"/>
+			<point x="78" y="741" type="line"/>
+			<point x="78" y="548" type="line"/>
+			<point x="183" y="548" type="line"/>
+			<point x="138" y="594" type="line"/>
+			<point x="138" y="173" type="line"/>
+			<point x="180" y="235" type="line"/>
+			<point x="78" y="193" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-07-21 01:11:11 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>i</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>i</string>
+			<string>2020-07-21 04:53:53 +0000</string>
 			<key>public.markColor</key>
 			<string>0.4,1,0.4,1</string>
 		</dict>

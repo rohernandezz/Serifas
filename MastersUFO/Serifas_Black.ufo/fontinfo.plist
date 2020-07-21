@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>765</integer>
+	<integer>790</integer>
 	<key>capHeight</key>
 	<integer>750</integer>
 	<key>descender</key>
@@ -80,8 +80,8 @@
 		<integer>0</integer>
 		<integer>540</integer>
 		<integer>559</integer>
-		<integer>765</integer>
-		<integer>780</integer>
+		<integer>790</integer>
+		<integer>809</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Serifas-Black</string>
