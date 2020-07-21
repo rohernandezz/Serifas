@@ -11,26 +11,7 @@
     <key>familyName</key>
     <string>Serifas</string>
     <key>guidelines</key>
-    <array>
-      <dict>
-        <key>identifier</key>
-        <string>nShTvVHnwp</string>
-        <key>name</key>
-        <string>m</string>
-        <key>y</key>
-        <integer>250</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>I3nDzBKhCD</string>
-        <key>x</key>
-        <integer>398</integer>
-        <key>y</key>
-        <integer>498</integer>
-      </dict>
-    </array>
+    <array/>
     <key>openTypeHeadCreated</key>
     <string>2020/07/16 16:49:51</string>
     <key>openTypeHeadFlags</key>
