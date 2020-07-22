@@ -168,10 +168,15 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>alt</string>
       <string>I.2</string>
-      <string>O.2</string>
       <string>I.3</string>
+      <string>L.2</string>
+      <string>O.2</string>
       <string>O.3</string>
+      <string>Q.</string>
+      <string>a.2</string>
+      <string>e.2</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
