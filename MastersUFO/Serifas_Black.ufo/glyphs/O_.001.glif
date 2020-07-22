@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="O" format="2">
+<glyph name="O.001" format="2">
 	<advance width="833"/>
-	<unicode hex="004F"/>
 	<outline>
 		<contour>
 			<point x="415" y="-19" type="curve" smooth="yes"/>
@@ -35,7 +34,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-07-22 23:05:38 +0000</string>
+			<string>2020-07-22 03:40:55 +0000</string>
 			<key>public.markColor</key>
 			<string>0.4,1,0.4,1</string>
 		</dict>

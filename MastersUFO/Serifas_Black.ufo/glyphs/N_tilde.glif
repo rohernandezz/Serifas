@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="2">
-  <advance width="760"/>
-  <unicode hex="00D1"/>
-  <outline>
-    <component base="N" xOffset="-20"/>
-    <contour>
-      <point x="110.88" y="812.498" type="curve"/>
-      <point x="110.88" y="812.498"/>
-      <point x="462.705" y="812.498"/>
-      <point x="462.705" y="812.498" type="curve"/>
-      <point x="627.51" y="812.498"/>
-      <point x="666.88" y="879.498"/>
-      <point x="666.88" y="879.498" type="curve"/>
-      <point x="666.88" y="879.498"/>
-      <point x="666.88" y="998.498"/>
-      <point x="666.88" y="998.498" type="curve"/>
-      <point x="666.88" y="998.498"/>
-      <point x="593.871" y="934.498"/>
-      <point x="493.88" y="934.498" type="curve"/>
-      <point x="493.88" y="934.498"/>
-      <point x="247.88" y="934.498"/>
-      <point x="247.88" y="934.498" type="curve"/>
-      <point x="130.388" y="934.498"/>
-      <point x="110.88" y="812.498"/>
-    </contour>
-  </outline>
+	<advance width="760"/>
+	<unicode hex="00D1"/>
+	<outline>
+		<contour>
+			<point x="110.88" y="812.498" type="curve"/>
+			<point x="110.88" y="812.498"/>
+			<point x="462.705" y="812.498"/>
+			<point x="462.705" y="812.498" type="curve"/>
+			<point x="627.51" y="812.498"/>
+			<point x="666.88" y="879.498"/>
+			<point x="666.88" y="879.498" type="curve"/>
+			<point x="666.88" y="879.498"/>
+			<point x="666.88" y="998.498"/>
+			<point x="666.88" y="998.498" type="curve"/>
+			<point x="666.88" y="998.498"/>
+			<point x="593.871" y="934.498"/>
+			<point x="493.88" y="934.498" type="curve"/>
+			<point x="493.88" y="934.498"/>
+			<point x="247.88" y="934.498"/>
+			<point x="247.88" y="934.498" type="curve"/>
+			<point x="130.388" y="934.498"/>
+			<point x="110.88" y="812.498"/>
+		</contour>
+		<component base="N" xOffset="-20"/>
+	</outline>
 </glyph>
