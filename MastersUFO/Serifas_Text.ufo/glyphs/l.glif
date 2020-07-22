@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
   <advance width="378"/>
   <unicode hex="006C"/>
-  <guideline y="96" identifier="wypexluRHm"/>
-  <guideline y="145" identifier="cPpAM42bAs"/>
   <outline>
     <contour>
       <point x="352" y="0" type="line"/>
@@ -21,4 +19,6 @@
       <point x="352" y="86" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="96"/>
+  <guideline angle="0" x="0" y="145"/>
 </glyph>
