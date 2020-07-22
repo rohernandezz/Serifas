@@ -46,13 +46,11 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-07-21 20:32:03 +0000</string>
+			<string>2020-07-22 03:21:13 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>i</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>o</string>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
 		</dict>
 	</lib>
 </glyph>

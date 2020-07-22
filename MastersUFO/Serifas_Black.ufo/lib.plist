@@ -17,12 +17,44 @@
 Inlo
 quilo
 quinoi
+Hilnoi Inolquin
+Ohquino
+OH ol
+OH
+Ohno
+OHTE
+
+   
+ 
  </string>
+		<string>I</string>
+		<string>/O.alt</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>glyphOrder</string>
+			<key>value</key>
+			<array>
+				<string>.notdef</string>
+				<string>A</string>
+				<string>E</string>
+				<string>F</string>
+				<string>H</string>
+				<string>O</string>
+				<string>W</string>
+				<string>m</string>
+				<string>n</string>
+				<string>o</string>
+				<string>u</string>
+				<string>l</string>
+				<string>b</string>
+				<string>q</string>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>glyphOrder</string>
@@ -253,24 +285,25 @@ quinoi
 	<string>4638316944</string>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>space</string>
 		<string>E</string>
 		<string>H</string>
-		<string>I</string>
 		<string>O</string>
-		<string>T</string>
-		<string>b</string>
-		<string>h</string>
-		<string>i</string>
-		<string>l</string>
 		<string>n</string>
 		<string>o</string>
-		<string>q</string>
 		<string>u</string>
+		<string>l</string>
+		<string>b</string>
+		<string>q</string>
+		<string>I</string>
+		<string>T</string>
 		<string>I.2</string>
-		<string>O.2</string>
 		<string>I.3</string>
+		<string>O.2</string>
 		<string>O.3</string>
+		<string>O.alt</string>
+		<string>h</string>
+		<string>i</string>
+		<string>space</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict/>
