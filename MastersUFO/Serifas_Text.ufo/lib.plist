@@ -178,6 +178,7 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>r.alt</string>
       <string>space</string>
     </array>
     <key>public.postscriptNames</key>
