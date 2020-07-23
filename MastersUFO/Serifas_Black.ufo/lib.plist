@@ -313,9 +313,11 @@ OHTE
       <string>u</string>
       <string>CR</string>
       <string>NULL</string>
+      <string>2</string>
       <string>I.2</string>
       <string>L.2</string>
       <string>O.2</string>
+      <string>Q.2</string>
       <string>I.3</string>
       <string>O.3</string>
       <string>O.alt</string>
