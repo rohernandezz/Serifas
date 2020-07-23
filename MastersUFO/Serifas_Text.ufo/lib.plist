@@ -98,9 +98,12 @@
       <string>G</string>
       <string>H</string>
       <string>I</string>
+      <string>L</string>
       <string>N</string>
       <string>Ntilde</string>
       <string>O</string>
+      <string>P</string>
+      <string>Q</string>
       <string>T</string>
       <string>U</string>
       <string>I.2</string>
@@ -122,6 +125,9 @@
       <string>r</string>
       <string>u</string>
       <string>space</string>
+      <string>O.2</string>
+      <string>I.3</string>
+      <string>O.3</string>
       <string>.notdef</string>
     </array>
   </dict>
