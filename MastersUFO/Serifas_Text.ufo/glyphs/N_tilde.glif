@@ -6,9 +6,9 @@
     <component base="N" xOffset="-1"/>
     <contour>
       <point x="89" y="868" type="line"/>
-      <point x="135.924" y="789.238" type="line"/>
-      <point x="284" y="855" type="line"/>
-      <point x="588" y="799" type="line"/>
+      <point x="135.924" y="796.238" type="line"/>
+      <point x="284" y="862" type="line"/>
+      <point x="588" y="806" type="line"/>
       <point x="708" y="868" type="line"/>
       <point x="652.74" y="949.552" type="line"/>
       <point x="554.085" y="901.345" type="line"/>
