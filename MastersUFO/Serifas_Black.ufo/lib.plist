@@ -13,20 +13,36 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiIIIIIiiiiiiIIIIIiIiIiIiIiIiIIIIIIiiiiiiiiiooooooooooooooooooooooooooOOOOOOoooOOoOoOoOoOooooooooooiooooioooiooooiooooiooonnnnnnnnnnnnnnnnnnnnnnniiiiiiniiininiiiiiinininininiiiniininnnnuuuuuuuuuuuuuuuuuuuuuuuuunnnnnnununuuuunununuuununiiiiiiiuiiiiiuiiiiuiiiiiuiuiuiuiuiuiui
-bbbbbbbbbbbbbbbbbbbbbbboooboboooooboobobobobooooobooiiiibibiiiiiibiibibibibiibibiiiiiibllllllllllllllllllllllllllllllllllllllllliiiililllilllilllilllilllilllllllilllllilllllllllllllloooololllolooolooololoooololollllbllllblllllllbllllblblblblbllblblbl
-qqqqqqqqqqqqqqqqqqqqqqqqqoooooqoooooooqooooooqooooq
-IIIIIIIIIOO
-
-   
- 
- 
-qu</string>
+		<string>nnnnnnnnnnnnnnnnnnhhh
+uuuuuuuuuuuuuuuuuu
+iiiuiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ooouoooooo </string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>glyphOrder</string>
+			<key>value</key>
+			<array>
+				<string>.notdef</string>
+				<string>A</string>
+				<string>E</string>
+				<string>F</string>
+				<string>H</string>
+				<string>O</string>
+				<string>W</string>
+				<string>m</string>
+				<string>n</string>
+				<string>o</string>
+				<string>u</string>
+				<string>l</string>
+				<string>b</string>
+				<string>q</string>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>glyphOrder</string>
