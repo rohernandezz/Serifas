@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>750</integer>
+    <integer>760</integer>
     <key>capHeight</key>
-    <integer>750</integer>
+    <integer>740</integer>
     <key>descender</key>
-    <integer>-250</integer>
+    <integer>-210</integer>
     <key>familyName</key>
     <string>Serifas</string>
     <key>guidelines</key>
@@ -16,43 +16,55 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>woy1hykG11</string>
+        <string>yUFBRRtbNx</string>
         <key>name</key>
-        <string>m</string>
+        <string>LC_serif_bottom</string>
         <key>x</key>
-        <integer>333</integer>
+        <integer>-105</integer>
         <key>y</key>
-        <integer>251</integer>
+        <integer>96</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>vVcb7umItO</string>
+        <string>jGyB0HjKcQ</string>
         <key>name</key>
-        <string>f1</string>
+        <string>LC_serif_top</string>
         <key>x</key>
-        <integer>560</integer>
+        <integer>-111</integer>
         <key>y</key>
-        <integer>847</integer>
+        <integer>420</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>SHOskIN6T6</string>
+        <key>name</key>
+        <string>UC_serif_bottom</string>
+        <key>x</key>
+        <integer>-212</integer>
+        <key>y</key>
+        <integer>125</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>RAXWHJfzgE</string>
+        <key>name</key>
+        <string>UC_serif_top</string>
+        <key>x</key>
+        <integer>-187</integer>
+        <key>y</key>
+        <integer>615</integer>
       </dict>
     </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeGaspRangeRecords</key>
-    <array>
-      <dict>
-        <key>rangeGaspBehavior</key>
-        <array>
-          <integer>0</integer>
-          <integer>1</integer>
-          <integer>2</integer>
-          <integer>3</integer>
-        </array>
-        <key>rangeMaxPPEM</key>
-        <integer>65535</integer>
-      </dict>
-    </array>
+    <array/>
     <key>openTypeHeadCreated</key>
     <string>2020/07/16 16:49:51</string>
     <key>openTypeHeadFlags</key>
@@ -104,12 +116,12 @@
     <integer>7</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-19</integer>
+      <integer>-18</integer>
       <integer>0</integer>
       <integer>540</integer>
-      <integer>559</integer>
-      <integer>765</integer>
-      <integer>780</integer>
+      <integer>558</integer>
+      <integer>740</integer>
+      <integer>758</integer>
     </array>
     <key>postscriptFamilyBlues</key>
     <array/>

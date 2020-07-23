@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
   <advance width="393"/>
   <unicode hex="006C"/>
+  <guideline x="0" y="110" angle="0"/>
+  <guideline x="0" y="140" angle="0"/>
   <outline>
     <contour>
       <point x="74" y="0" type="line"/>
@@ -19,14 +21,12 @@
       <point x="74" y="109" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="110"/>
-  <guideline angle="0" x="0" y="140"/>
   <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2020-07-22 03:21:38 +0000</string>
-  <key>public.markColor</key>
-  <string>0.4,1,0.4,1</string>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-07-22 03:21:38 +0000</string>
+      <key>public.markColor</key>
+      <string>0.6433,0.837,0.9473,1</string>
+    </dict>
   </lib>
 </glyph>

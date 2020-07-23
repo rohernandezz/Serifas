@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u" format="2">
   <advance width="666"/>
   <unicode hex="0075"/>
+  <guideline x="0" y="557" angle="0"/>
+  <guideline x="0" y="-37" angle="0"/>
+  <guideline x="0" y="109" angle="0"/>
+  <guideline x="0" y="160" angle="0"/>
+  <guideline x="0" y="414" angle="0"/>
+  <guideline x="0" y="375" angle="0"/>
   <outline>
     <contour>
       <point x="650" y="540" type="line"/>
@@ -40,20 +46,14 @@
       <point x="250" y="104" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="557"/>
-  <guideline angle="0" x="0" y="-37"/>
-  <guideline angle="0" x="0" y="109"/>
-  <guideline angle="0" x="0" y="160"/>
-  <guideline angle="0" x="0" y="414"/>
-  <guideline angle="0" x="0" y="375"/>
   <lib>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.lastChange</key>
-    <string>2020-07-21 22:01:07 +0000</string>
-    <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-    <string>i</string>
-  <key>public.markColor</key>
-  <string>0.4,1,0.4,1</string>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-07-21 22:01:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.6433,0.837,0.9473,1</string>
+    </dict>
   </lib>
 </glyph>

@@ -286,6 +286,8 @@ OHTE
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>
+      <string>A</string>
+      <string>B</string>
       <string>C</string>
       <string>D</string>
       <string>E</string>
@@ -293,20 +295,34 @@ OHTE
       <string>G</string>
       <string>H</string>
       <string>I</string>
+      <string>J</string>
+      <string>K</string>
       <string>L</string>
+      <string>M</string>
       <string>N</string>
       <string>Ntilde</string>
       <string>O</string>
       <string>P</string>
       <string>Q</string>
+      <string>R</string>
+      <string>S</string>
       <string>T</string>
+      <string>U</string>
+      <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
       <string>a</string>
       <string>b</string>
       <string>c</string>
       <string>d</string>
       <string>e</string>
+      <string>f</string>
+      <string>g</string>
       <string>h</string>
       <string>i</string>
+      <string>j</string>
       <string>k</string>
       <string>l</string>
       <string>m</string>
@@ -316,18 +332,23 @@ OHTE
       <string>p</string>
       <string>q</string>
       <string>r</string>
+      <string>s</string>
+      <string>t</string>
       <string>u</string>
-      <string>CR</string>
-      <string>NULL</string>
-      <string>CGD</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
       <string>I.2</string>
       <string>L.2</string>
       <string>O.2</string>
       <string>Q.2</string>
+      <string>u.2</string>
+      <string>ntilde.2</string>
       <string>I.3</string>
       <string>O.3</string>
       <string>O.alt</string>
-      <string>.notdef</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ntilde" format="2">
-  <advance width="636"/>
-  <unicode hex="00F1"/>
-  <outline>
-    <component base="n" xOffset="20"/>
-    <contour>
-      <point x="46.281" y="647.107" type="line"/>
-      <point x="84.9137" y="584.351" type="line"/>
-      <point x="206.825" y="641.86" type="line"/>
-      <point x="457.109" y="592.888" type="line"/>
-      <point x="555.906" y="647.107" type="line"/>
-      <point x="510.41" y="718.425" type="line"/>
-      <point x="429.187" y="676.267" type="line"/>
-      <point x="200.239" y="724.938" type="line"/>
-    </contour>
-  </outline>
-</glyph>
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>background</string>
+      <string>glyphs.background</string>
+    </array>
+  </array>
+</plist>

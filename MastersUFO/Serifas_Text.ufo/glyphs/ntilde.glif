@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ntilde" format="2">
   <advance width="636"/>
   <unicode hex="00F1"/>
   <outline>
-    <component base="n" xOffset="20"/>
     <contour>
       <point x="46.281" y="647.107" type="line"/>
       <point x="84.9137" y="584.351" type="line"/>
@@ -14,5 +13,12 @@
       <point x="429.187" y="676.267" type="line"/>
       <point x="200.239" y="724.938" type="line"/>
     </contour>
+    <component base="n" xOffset="20"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6433,0.837,0.9473,1</string>
+    </dict>
+  </lib>
 </glyph>
