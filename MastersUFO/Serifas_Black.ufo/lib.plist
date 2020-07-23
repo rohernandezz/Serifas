@@ -286,8 +286,11 @@ OHTE
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>
+      <string>C</string>
+      <string>D</string>
       <string>E</string>
       <string>F</string>
+      <string>G</string>
       <string>H</string>
       <string>I</string>
       <string>L</string>
@@ -299,6 +302,8 @@ OHTE
       <string>T</string>
       <string>a</string>
       <string>b</string>
+      <string>c</string>
+      <string>d</string>
       <string>e</string>
       <string>h</string>
       <string>i</string>
@@ -308,11 +313,13 @@ OHTE
       <string>n</string>
       <string>ntilde</string>
       <string>o</string>
+      <string>p</string>
       <string>q</string>
       <string>r</string>
       <string>u</string>
       <string>CR</string>
       <string>NULL</string>
+      <string>CGD</string>
       <string>I.2</string>
       <string>L.2</string>
       <string>O.2</string>
