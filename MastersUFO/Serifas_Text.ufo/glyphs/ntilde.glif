@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ntilde" format="2">
   <advance width="636"/>
   <unicode hex="00F1"/>
   <outline>
-    <component base="n"/>
     <contour>
       <point x="82.8106" y="670.457" type="curve"/>
       <point x="119.82" y="605.899" type="line"/>
@@ -26,5 +25,6 @@
       <point x="138.855" y="728.672"/>
       <point x="82.8106" y="670.457"/>
     </contour>
+    <component base="n"/>
   </outline>
 </glyph>

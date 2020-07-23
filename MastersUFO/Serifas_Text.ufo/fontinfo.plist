@@ -15,22 +15,26 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>woy1hykG11</string>
         <key>name</key>
         <string>m</string>
         <key>x</key>
-        <integer>0</integer>
+        <integer>333</integer>
         <key>y</key>
-        <integer>250</integer>
+        <integer>251</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>vVcb7umItO</string>
         <key>name</key>
         <string>f1</string>
         <key>x</key>
-        <integer>0</integer>
+        <integer>560</integer>
         <key>y</key>
-        <integer>498</integer>
+        <integer>847</integer>
       </dict>
     </array>
     <key>italicAngle</key>
