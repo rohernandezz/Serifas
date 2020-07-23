@@ -2,9 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>creator</key>
-    <string>com.github.fonttools.ufoLib</string>
-    <key>formatVersion</key>
-    <integer>3</integer>
+    <key>C</key>
+    <string>C_.glif</string>
+    <key>D</key>
+    <string>D_.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
   </dict>
 </plist>
