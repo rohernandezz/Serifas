@@ -35,8 +35,9 @@
     </contour>
     <contour>
       <point x="13" y="-210" type="line"/>
-      <point x="13" y="-99" type="line"/>
-      <point x="88" y="-99" type="line"/>
+      <point x="13" y="-119" type="line"/>
+      <point x="118" y="-99" type="line"/>
+      <point x="88" y="-129" type="line"/>
       <point x="88" y="419" type="line"/>
       <point x="28" y="419" type="line"/>
       <point x="28" y="540" type="line"/>
@@ -44,7 +45,8 @@
       <point x="88" y="558" type="line"/>
       <point x="91" y="540" type="line"/>
       <point x="210" y="540" type="line"/>
-      <point x="210" y="-94" type="line"/>
+      <point x="210" y="-124" type="line"/>
+      <point x="181" y="-87" type="line"/>
       <point x="358" y="-130" type="line"/>
       <point x="358" y="-210" type="line"/>
     </contour>

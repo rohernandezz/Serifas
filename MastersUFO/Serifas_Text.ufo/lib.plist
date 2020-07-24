@@ -86,16 +86,22 @@
         </dict>
       </dict>
     </dict>
-    <key>com.typemytype.robofont.compileSettings.autohint</key>
-    <true/>
-    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
     <false/>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
-    <false/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
     <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>public.default</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/Ro/Desktop/Serifas_Text_23Julio_02_FINAL.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.IQrwea7lMm</key>
@@ -128,6 +134,8 @@
     <string>4806422672</string>
     <key>public.glyphOrder</key>
     <array>
+      <string>A</string>
+      <string>B</string>
       <string>C</string>
       <string>D</string>
       <string>E</string>
@@ -135,21 +143,35 @@
       <string>G</string>
       <string>H</string>
       <string>I</string>
+      <string>J</string>
+      <string>K</string>
       <string>L</string>
+      <string>M</string>
       <string>N</string>
       <string>Ntilde</string>
       <string>O</string>
       <string>P</string>
       <string>Q</string>
+      <string>R</string>
+      <string>S</string>
       <string>T</string>
       <string>U</string>
+      <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
       <string>a</string>
       <string>b</string>
       <string>c</string>
       <string>d</string>
       <string>e</string>
+      <string>f</string>
+      <string>g</string>
       <string>h</string>
       <string>i</string>
+      <string>j</string>
+      <string>k</string>
       <string>l</string>
       <string>m</string>
       <string>n</string>
@@ -158,11 +180,16 @@
       <string>p</string>
       <string>q</string>
       <string>r</string>
+      <string>s</string>
+      <string>t</string>
       <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
       <string>r.alt</string>
       <string>space</string>
-      <string>A</string>
-      <string>y</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
