@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m" format="2">
+  <advance width="629"/>
+  <unicode hex="006D"/>
+  <guideline x="0" y="96" angle="0" identifier="9SEbVXiPgv"/>
+  <guideline x="0" y="129" angle="0" identifier="89JlkKnNn0"/>
+  <guideline x="510" y="0" angle="90" identifier="7D1ZBMfM3G"/>
+  <guideline x="0" y="464" angle="0" identifier="CJP2QWrddo"/>
+  <guideline x="0" y="436" angle="0" identifier="yC5aVnKDyz"/>
+  <guideline x="0" y="761" angle="0" identifier="4OuUpNi9Pl"/>
+  <outline>
+    <component base="n"/>
+  </outline>
+</glyph>
