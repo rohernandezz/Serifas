@@ -20,9 +20,9 @@
         <key>name</key>
         <string>LC_serif_bottom</string>
         <key>x</key>
-        <integer>682</integer>
+        <integer>375</integer>
         <key>y</key>
-        <integer>88</integer>
+        <integer>89</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -32,9 +32,9 @@
         <key>name</key>
         <string>LC_serif_top</string>
         <key>x</key>
-        <integer>268</integer>
+        <integer>401</integer>
         <key>y</key>
-        <integer>419</integer>
+        <integer>501</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -44,7 +44,7 @@
         <key>name</key>
         <string>UC_serif_bottom</string>
         <key>x</key>
-        <integer>363</integer>
+        <integer>-556</integer>
         <key>y</key>
         <integer>110</integer>
       </dict>
@@ -56,9 +56,9 @@
         <key>name</key>
         <string>UC_serif_top</string>
         <key>x</key>
-        <integer>-80</integer>
+        <integer>182</integer>
         <key>y</key>
-        <integer>630</integer>
+        <integer>609</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -68,9 +68,9 @@
         <key>name</key>
         <string>LC_serif_top</string>
         <key>x</key>
-        <integer>-230</integer>
+        <integer>496</integer>
         <key>y</key>
-        <integer>635</integer>
+        <integer>420</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -86,7 +86,7 @@
     <key>openTypeNamePreferredFamilyName</key>
     <string>Serifas Text</string>
     <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Light</string>
+    <string>Heavy</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.000</string>
     <key>openTypeOS2Panose</key>
@@ -142,11 +142,11 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>SerifasText-Light</string>
+    <string>Serifas-TextHeavy</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>SerifasTextLight</string>
+    <string>SerifasTextHeavy</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -166,7 +166,7 @@
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>Light</string>
+    <string>Heavy</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
