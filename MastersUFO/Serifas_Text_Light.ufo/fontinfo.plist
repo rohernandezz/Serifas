@@ -82,11 +82,11 @@
     <key>openTypeHeadFlags</key>
     <array/>
     <key>openTypeNameCompatibleFullName</key>
-    <string>Serifas Text</string>
+    <string>Serifas Text Light</string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Serifas Text</string>
     <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Heavy</string>
+    <string>Light</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.000</string>
     <key>openTypeOS2Panose</key>
@@ -142,11 +142,11 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>Serifas-TextHeavy</string>
+    <string>SerifasText-Light</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>SerifasTextHeavy</string>
+    <string>SerifasTextLight</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -162,11 +162,11 @@
     <key>postscriptWeightName</key>
     <string>Normal</string>
     <key>styleMapFamilyName</key>
-    <string>Serifas Text</string>
+    <string>Serifas Text Light</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>Heavy</string>
+    <string>Light</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
