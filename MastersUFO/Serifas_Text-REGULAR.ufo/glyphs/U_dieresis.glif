@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresis" format="2">
+  <advance width="816"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="100" y="835" type="line"/>
+      <point x="232" y="835" type="line"/>
+      <point x="232" y="947" type="line"/>
+      <point x="100" y="947" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="831" type="line"/>
+      <point x="692" y="831" type="line"/>
+      <point x="692" y="943" type="line"/>
+      <point x="560" y="943" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+</glyph>

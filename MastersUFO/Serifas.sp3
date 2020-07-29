@@ -8,10 +8,9 @@
     <data name="horizontalPreviewAxis" value="weight"/>
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
-    <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="instances"/>
-    <data name="previewtext" value="&amp;,-01CDEFGHILNÑOPQTUÜabcdehilmnñopqruüv
-"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/Ro/Documents/Work/Serifas/MastersUFO/instances"/>
+    <data name="previewtext" value="&amp;,-01CDEFGHILNÑOPQTUÜabcdehilmnñopqruüv "/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
@@ -20,17 +19,80 @@
         <color a="1.000" b="0.764" g="0.000" r="0.989"/>
     </axis>
     <!-- master definitions -->
-    <master familyname="Serifas Text" filename="../Documents/Work/Serifas/MastersUFO/Serifas_Text_Heavy.ufo" sortorder="1" stylename="Heavy">
+    <master familyname="Serifas Text" filename="Serifas_Text_Heavy.ufo" sortorder="7" stylename="Heavy">
         <location>
             <dimension name="weight" xvalue="700.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="Serifas Text" filename="../Documents/Work/Serifas/MastersUFO/Serifas_Text_Light.ufo" sortorder="0" stylename="Light">
+    <master familyname="Serifas Text" filename="Serifas_Text_Light.ufo" sortorder="0" stylename="Light">
         <location>
-            <dimension name="weight" xvalue="300.000000"/>
+            <dimension name="weight" xvalue="200.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
     <!-- instance definitions -->
+    <instance familyname="Serifas Text" filename="instances/SerifasText-500.ufo" sortorder="5" stylename="500">
+        <location>
+            <dimension name="weight" xvalue="500.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Serifas Text" filename="instances/SerifasText-400.ufo" sortorder="3" stylename="400">
+        <location>
+            <dimension name="weight" xvalue="400.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Serifas Text" filename="instances/SerifasText-600.ufo" sortorder="6" stylename="600">
+        <location>
+            <dimension name="weight" xvalue="600.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Serifas Text" filename="instances/SerifasText-300.ufo" sortorder="1" stylename="300">
+        <location>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Serifas Text" filename="instances/SerifasText-350.ufo" sortorder="2" stylename="350">
+        <location>
+            <dimension name="weight" xvalue="350.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Serifas Text" filename="instances/SerifasText-450.ufo" sortorder="4" stylename="450">
+        <location>
+            <dimension name="weight" xvalue="450.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Serifas Text" filename="instances/SerifasText-wght380.ufo" sortorder="8" stylename="wght380">
+        <location>
+            <dimension name="weight" xvalue="380.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
 </designspace>
