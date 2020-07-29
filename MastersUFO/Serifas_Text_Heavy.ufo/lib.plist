@@ -135,6 +135,7 @@
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
+      <string>Aacute</string>
       <string>B</string>
       <string>C</string>
       <string>D</string>
@@ -162,6 +163,7 @@
       <string>Y</string>
       <string>Z</string>
       <string>a</string>
+      <string>aacute</string>
       <string>b</string>
       <string>c</string>
       <string>d</string>
@@ -190,6 +192,12 @@
       <string>z</string>
       <string>r.alt</string>
       <string>space</string>
+      <string>,</string>
+      <string>0</string>
+      <string>1</string>
+      <string>3</string>
+      <string>6</string>
+      <string>3.1</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
