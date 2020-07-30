@@ -1,37 +1,38 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="756"/>
+  <advance width="667"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="660" y="655" type="line"/>
-      <point x="623" y="685" type="line"/>
-      <point x="639" y="445" type="line"/>
-      <point x="706" y="445" type="line"/>
-      <point x="719" y="740" type="line"/>
-      <point x="37" y="740" type="line"/>
-      <point x="50" y="445" type="line"/>
-      <point x="117" y="445" type="line"/>
-      <point x="133" y="685" type="line"/>
-      <point x="96" y="655" type="line"/>
+      <point x="563" y="655" type="line"/>
+      <point x="526" y="685" type="line"/>
+      <point x="542" y="516" type="line"/>
+      <point x="609" y="516" type="line"/>
+      <point x="622" y="740" type="line"/>
+      <point x="-50" y="740" type="line"/>
+      <point x="-37" y="516" type="line"/>
+      <point x="30" y="516" type="line"/>
+      <point x="46" y="685" type="line"/>
+      <point x="9" y="655" type="line"/>
     </contour>
     <contour>
-      <point x="329" y="689" type="line"/>
-      <point x="329" y="52" type="line"/>
-      <point x="359" y="96" type="line"/>
-      <point x="187" y="61" type="line"/>
-      <point x="187" y="1" type="line"/>
-      <point x="569" y="1" type="line"/>
-      <point x="569" y="61" type="line"/>
-      <point x="392" y="96" type="line"/>
-      <point x="421" y="52" type="line"/>
-      <point x="421" y="689" type="line"/>
+      <point x="237" y="689" type="line"/>
+      <point x="237" y="52" type="line"/>
+      <point x="266.3" y="87.884" type="line"/>
+      <point x="94" y="64" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="484" y="64" type="line"/>
+      <point x="306.052" y="87.884" type="line"/>
+      <point x="335" y="52" type="line"/>
+      <point x="335" y="689" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="516"/>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6433,0.837,0.9473,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.643,0.837,0.947,1</string>
+  </dict>
   </lib>
 </glyph>
