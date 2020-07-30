@@ -98,6 +98,7 @@
       <string>ampersand</string>
       <string>period</string>
       <string>comma</string>
+      <string>tilde</string>
       <string>dieresis</string>
       <string>.notdef</string>
     </array>
