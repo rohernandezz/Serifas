@@ -1,6 +1,46 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
+  <advance width="666"/>
   <unicode hex="0041"/>
   <outline>
+    <contour>
+      <point x="389.444" y="656" type="line"/>
+      <point x="546.397" y="72.4294" type="line"/>
+      <point x="554.912" y="86.6822" type="line"/>
+      <point x="465" y="64" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="719" y="0" type="line"/>
+      <point x="719" y="64" type="line"/>
+      <point x="610.251" y="93.6074" type="line"/>
+      <point x="656.263" y="47.2853" type="line"/>
+      <point x="459" y="740" type="line"/>
+      <point x="162.362" y="740" type="line"/>
+      <point x="162.362" y="676" type="line"/>
+      <point x="258.229" y="656" type="line"/>
+      <point x="92.4759" y="72.4928" type="line"/>
+      <point x="114.761" y="88.8441" type="line"/>
+      <point x="22" y="63.7435" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="274" y="64" type="line"/>
+      <point x="187.362" y="86.8441" type="line"/>
+      <point x="195.946" y="72.4005" type="line"/>
+      <point x="351.814" y="656" type="line"/>
+    </contour>
+    <contour>
+      <point x="195.946" y="257.973" type="line"/>
+      <point x="537.5" y="257.973" type="line"/>
+      <point x="537.5" y="343" type="line"/>
+      <point x="195.946" y="343" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="0" x="0" y="676"/>
+  <guideline angle="0" x="0" y="656"/>
+  <guideline angle="0" x="0" y="84"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.859,0.111,1</string>
+  </dict>
+  </lib>
 </glyph>
