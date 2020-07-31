@@ -1,56 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="680"/>
+  <advance width="700"/>
   <unicode hex="004B"/>
+  <guideline x="0" y="84" angle="0" identifier="wdE9ZZd5DA"/>
+  <guideline x="699" y="639" angle="90" identifier="fKfpe7Ys9R"/>
   <outline>
     <contour>
-      <point x="162.369" y="199.829" type="line"/>
-      <point x="171.197" y="343.529" type="line"/>
-      <point x="490.825" y="686" type="line"/>
-      <point x="483.02" y="652.924" type="line"/>
-      <point x="396" y="676" type="line"/>
-      <point x="396" y="740" type="line"/>
-      <point x="659" y="740" type="line"/>
-      <point x="659" y="676" type="line"/>
-      <point x="574.265" y="652.836" type="line"/>
-      <point x="594.022" y="664.778" type="line"/>
+      <point x="197" y="184" type="line"/>
+      <point x="191" y="299" type="line"/>
+      <point x="540" y="674" type="line"/>
+      <point x="521" y="655" type="line"/>
+      <point x="425" y="676" type="line"/>
+      <point x="425" y="740" type="line"/>
+      <point x="699" y="740" type="line"/>
+      <point x="699" y="676" type="line"/>
+      <point x="604" y="647" type="line"/>
+      <point x="648" y="673" type="line"/>
     </contour>
     <contour>
-      <point x="288.07" y="410.955" type="line"/>
-      <point x="366.545" y="476.892" type="line"/>
-      <point x="586.484" y="73.8538" type="line"/>
-      <point x="568.076" y="84" type="line"/>
-      <point x="659" y="84" type="line"/>
-      <point x="659" y="0" type="line"/>
-      <point x="509" y="0" type="line"/>
+      <point x="324" y="360" type="line"/>
+      <point x="392" y="428" type="line"/>
+      <point x="641" y="69" type="line"/>
+      <point x="588" y="92" type="line"/>
+      <point x="729" y="69" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="575" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="188.728" y="697.333" type="line"/>
-      <point x="188.728" y="56.333" type="line"/>
-      <point x="157.165" y="92.333" type="line"/>
-      <point x="265.728" y="63.333" type="line"/>
-      <point x="265.728" y="-0.666992" type="line"/>
-      <point x="16.7278" y="-0.666992" type="line"/>
-      <point x="16.7278" y="63.333" type="line"/>
-      <point x="124.728" y="92.333" type="line"/>
-      <point x="90.7278" y="64.333" type="line"/>
-      <point x="90.7278" y="689.333" type="line"/>
-      <point x="120.153" y="647" type="line"/>
-      <point x="16.7278" y="675.333" type="line"/>
-      <point x="16.7278" y="739.333" type="line"/>
-      <point x="265.728" y="739.333" type="line"/>
-      <point x="265.728" y="675.333" type="line"/>
-      <point x="156.611" y="647" type="line"/>
+      <point x="212" y="698" type="line"/>
+      <point x="212" y="57" type="line"/>
+      <point x="180" y="92" type="line"/>
+      <point x="299" y="64" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="64" type="line"/>
+      <point x="148" y="93" type="line"/>
+      <point x="114" y="65" type="line"/>
+      <point x="114" y="690" type="line"/>
+      <point x="143" y="648" type="line"/>
+      <point x="40" y="676" type="line"/>
+      <point x="40" y="740" type="line"/>
+      <point x="289" y="740" type="line"/>
+      <point x="289" y="676" type="line"/>
+      <point x="180" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="0" type="line"/>
+      <point x="438" y="63" type="line"/>
+      <point x="561" y="95" type="line"/>
+      <point x="591" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="84"/>
-  <guideline angle="0" x="0" y="676"/>
-  <guideline angle="0" x="0" y="656"/>
-  <guideline angle="90" x="659" y="0"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.859,0.111,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6433,0.837,0.9473,1</string>
+    </dict>
   </lib>
 </glyph>

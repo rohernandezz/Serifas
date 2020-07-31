@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="658"/>
+  <advance width="611"/>
   <unicode hex="004C"/>
+  <guideline x="0" y="676" angle="0" identifier="IJSx1f0P9Y"/>
+  <guideline x="0" y="656" angle="0" identifier="yA4sYVItWx"/>
   <outline>
     <contour>
-      <point x="182" y="84" type="line"/>
-      <point x="572" y="84" type="line"/>
-      <point x="507" y="44" type="line"/>
-      <point x="561" y="224" type="line"/>
-      <point x="611" y="224" type="line"/>
-      <point x="611" y="0" type="line"/>
-      <point x="49" y="0" type="line"/>
-      <point x="49" y="64" type="line"/>
-      <point x="161.195" y="92.9832" type="line"/>
-      <point x="123" y="58" type="line"/>
-      <point x="123.036" y="711.84" type="line"/>
-      <point x="161.595" y="646.505" type="line"/>
-      <point x="49.0365" y="675.84" type="line"/>
-      <point x="49" y="740" type="line"/>
-      <point x="417" y="740" type="line"/>
-      <point x="417" y="676" type="line"/>
-      <point x="192.337" y="653.135" type="line"/>
-      <point x="221" y="698" type="line"/>
-      <point x="221" y="50" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="64" type="line"/>
+      <point x="148" y="93" type="line"/>
+      <point x="114" y="65" type="line"/>
+      <point x="114" y="690" type="line"/>
+      <point x="143" y="648" type="line"/>
+      <point x="30" y="676" type="line"/>
+      <point x="30" y="740" type="line"/>
+      <point x="379" y="740" type="line"/>
+      <point x="379" y="676" type="line"/>
+      <point x="180" y="646" type="line"/>
+      <point x="212" y="698" type="line"/>
+      <point x="212" y="57" type="line"/>
+      <point x="180" y="84" type="line"/>
+      <point x="521" y="84" type="line"/>
+      <point x="481" y="44" type="line"/>
+      <point x="513" y="274" type="line"/>
+      <point x="583" y="274" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="676"/>
-  <guideline angle="0" x="0" y="656"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.643,0.837,0.947,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6433,0.837,0.9473,1</string>
+    </dict>
   </lib>
 </glyph>

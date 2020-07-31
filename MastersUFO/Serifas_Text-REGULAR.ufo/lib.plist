@@ -11,16 +11,54 @@
         <string>cannedDesign</string>
       </dict>
     </array>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>foreground</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/Ro/Desktop/GAHHHHH.otf</string>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.magnetic.A5xRX8QaG2</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.BWIe6POlcS</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.FzIP140TNm</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.iLdpuemPpi</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.lTXjfnvE8n</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.uANHJ2bKVl</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.A5xRX8QaG2</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.BWIe6POlcS</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.FzIP140TNm</key>
+    <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.iLdpuemPpi</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.lTXjfnvE8n</key>
     <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.uANHJ2bKVl</key>
+    <false/>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
     <string>4560088592</string>
     <key>public.glyphOrder</key>
@@ -51,10 +89,6 @@
       <string>U</string>
       <string>Udieresis</string>
       <string>V</string>
-      <string>W</string>
-      <string>X</string>
-      <string>Y</string>
-      <string>Z</string>
       <string>a</string>
       <string>aacute</string>
       <string>b</string>
@@ -80,27 +114,22 @@
       <string>u</string>
       <string>udieresis</string>
       <string>v</string>
-      <string>w</string>
-      <string>x</string>
-      <string>y</string>
-      <string>z</string>
       <string>zero</string>
       <string>one</string>
-      <string>two</string>
       <string>three</string>
-      <string>four</string>
-      <string>five</string>
       <string>six</string>
-      <string>seven</string>
-      <string>eight</string>
-      <string>nine</string>
       <string>hyphen</string>
       <string>ampersand</string>
       <string>period</string>
       <string>comma</string>
+      <string>acute</string>
       <string>tilde</string>
       <string>dieresis</string>
       <string>.notdef</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>

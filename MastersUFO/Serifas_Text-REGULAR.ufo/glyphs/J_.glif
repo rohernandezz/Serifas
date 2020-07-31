@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-  <advance width="651"/>
+  <advance width="512"/>
   <unicode hex="004A"/>
+  <guideline x="0" y="676" angle="0" identifier="tq7Jj8fWAq"/>
+  <guideline x="0" y="656" angle="0" identifier="Wy2OUAkG7K"/>
   <outline>
     <contour>
-      <point x="560" y="191.58" type="curve" smooth="yes"/>
-      <point x="560" y="669.329" type="line"/>
-      <point x="548.181" y="655.255" type="line"/>
-      <point x="633" y="677.329" type="line"/>
-      <point x="633" y="741.329" type="line"/>
-      <point x="258" y="741.329" type="line"/>
-      <point x="258" y="657.329" type="line"/>
-      <point x="462" y="657.329" type="line"/>
-      <point x="462" y="191.58" type="line" smooth="yes"/>
-      <point x="462" y="68.3857"/>
-      <point x="397.681" y="64.7329"/>
-      <point x="326.767" y="64.7329" type="curve" smooth="yes"/>
-      <point x="287.675" y="64.7329"/>
-      <point x="223.781" y="94"/>
-      <point x="188.146" y="154.589" type="curve"/>
-      <point x="117.169" y="99.0404" type="line"/>
-      <point x="154.736" y="12.8879"/>
-      <point x="235.735" y="-19.3483"/>
-      <point x="339.25" y="-19.3483" type="curve" smooth="yes"/>
-      <point x="470.65" y="-19.3483"/>
-      <point x="560" y="-0.00159836"/>
+      <point x="407" y="243" type="curve" smooth="yes"/>
+      <point x="407" y="693" type="line"/>
+      <point x="373" y="647" type="line"/>
+      <point x="521" y="676" type="line"/>
+      <point x="521" y="740" type="line"/>
+      <point x="132" y="740" type="line"/>
+      <point x="132" y="674" type="line"/>
+      <point x="343" y="650" type="line"/>
+      <point x="309" y="686" type="line"/>
+      <point x="309" y="248" type="line" smooth="yes"/>
+      <point x="309.0" y="133"/>
+      <point x="279.0" y="74.0"/>
+      <point x="191" y="74" type="curve" smooth="yes"/>
+      <point x="128.25694444444446" y="74.0"/>
+      <point x="96" y="93"/>
+      <point x="52" y="137" type="curve"/>
+      <point x="-6" y="68" type="line"/>
+      <point x="54.99999999999999" y="7.000000000000007"/>
+      <point x="105.0" y="-18.0"/>
+      <point x="196" y="-18" type="curve"/>
+      <point x="343.0" y="-18.0"/>
+      <point x="407" y="74.0"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="676"/>
-  <guideline angle="0" x="0" y="656"/>
-  <guideline angle="0" x="0" y="-18"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.859,0.111,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.4,0.4,1</string>
+    </dict>
   </lib>
 </glyph>

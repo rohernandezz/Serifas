@@ -109,6 +109,8 @@
         </dict>
       </dict>
     </dict>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+    <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -116,9 +118,13 @@
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
-    <false/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
     <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>public.default</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/Ro/Desktop/Gaaaaaaah.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
