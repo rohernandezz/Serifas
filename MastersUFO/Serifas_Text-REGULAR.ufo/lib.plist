@@ -89,6 +89,10 @@
       <string>U</string>
       <string>Udieresis</string>
       <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
       <string>a</string>
       <string>aacute</string>
       <string>b</string>
@@ -114,17 +118,36 @@
       <string>u</string>
       <string>udieresis</string>
       <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
       <string>zero</string>
       <string>one</string>
+      <string>two</string>
       <string>three</string>
+      <string>four</string>
+      <string>five</string>
       <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
       <string>hyphen</string>
+      <string>parenleft</string>
+      <string>parenright</string>
       <string>ampersand</string>
       <string>period</string>
       <string>comma</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>exclam</string>
+      <string>exclamdown</string>
+      <string>question</string>
+      <string>questiondown</string>
       <string>acute</string>
       <string>tilde</string>
       <string>dieresis</string>
+      <string>quote</string>
       <string>.notdef</string>
     </array>
     <key>public.postscriptNames</key>
