@@ -9,7 +9,7 @@
     <key>descender</key>
     <integer>-210</integer>
     <key>familyName</key>
-    <string>Serifas Text</string>
+    <string>Acrata_Beta_1</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -102,9 +102,9 @@
     <key>openTypeHeadFlags</key>
     <array/>
     <key>openTypeNameCompatibleFullName</key>
-    <string>Serifas Text Regular</string>
+    <string>Acrata_Beta_1 Regular</string>
     <key>openTypeNamePreferredFamilyName</key>
-    <string>Serifas Text</string>
+    <string>Acrata_Beta_1</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
@@ -162,11 +162,11 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>SerifasText-Regular</string>
+    <string>Acrata_Beta_1-Regular</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>SerifasTextRegular</string>
+    <string>Acrata_Beta_1Regular</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -182,7 +182,7 @@
     <key>postscriptWeightName</key>
     <string>Normal</string>
     <key>styleMapFamilyName</key>
-    <string>Serifas Text Regular</string>
+    <string>Acrata_Beta_1 Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

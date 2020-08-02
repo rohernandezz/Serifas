@@ -149,6 +149,7 @@
       <string>dieresis</string>
       <string>quote</string>
       <string>.notdef</string>
+      <string>notdef</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
