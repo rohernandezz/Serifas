@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bocetoAcentos" format="2">
+  <advance width="3960"/>
+  <outline>
+    <contour>
+      <point x="3320" y="689" type="curve" smooth="yes"/>
+      <point x="3340" y="673"/>
+      <point x="3355" y="651"/>
+      <point x="3420" y="649" type="curve"/>
+      <point x="3467" y="647"/>
+      <point x="3496" y="666"/>
+      <point x="3496" y="714" type="curve"/>
+      <point x="3493" y="780" type="line"/>
+      <point x="3445" y="782" type="line"/>
+      <point x="3423" y="706" type="line"/>
+      <point x="3461" y="740" type="line"/>
+      <point x="3431" y="734"/>
+      <point x="3411" y="733"/>
+      <point x="3396" y="734" type="curve" smooth="yes"/>
+      <point x="3381" y="734"/>
+      <point x="3373" y="739"/>
+      <point x="3366" y="744" type="curve" smooth="yes"/>
+      <point x="3345" y="761"/>
+      <point x="3325" y="784"/>
+      <point x="3269" y="784" type="curve" smooth="yes"/>
+      <point x="3208" y="784"/>
+      <point x="3190" y="762"/>
+      <point x="3191" y="714" type="curve"/>
+      <point x="3192" y="653" type="line"/>
+      <point x="3240" y="651" type="line"/>
+      <point x="3262" y="728" type="line"/>
+      <point x="3225" y="693" type="line"/>
+      <point x="3256" y="699"/>
+      <point x="3277" y="701"/>
+      <point x="3292" y="699" type="curve" smooth="yes"/>
+      <point x="3305" y="698"/>
+      <point x="3314" y="695"/>
+    </contour>
+  </outline>
+</glyph>

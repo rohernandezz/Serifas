@@ -153,6 +153,7 @@
       <string>acute</string>
       <string>tilde</string>
       <string>dieresis</string>
+      <string>apostrophe</string>
       <string>bocetoAcentos</string>
       <string>notdef</string>
       <string>.notdef</string>

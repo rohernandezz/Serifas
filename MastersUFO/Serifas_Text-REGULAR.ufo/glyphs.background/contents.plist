@@ -72,6 +72,8 @@
     <string>ampersand.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>bocetoAcentos</key>
+    <string>bocetoA_centos.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
     <key>bracketright</key>
