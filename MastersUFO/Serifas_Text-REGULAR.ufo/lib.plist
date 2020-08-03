@@ -135,6 +135,12 @@
       <string>hyphen</string>
       <string>parenleft</string>
       <string>parenright</string>
+      <string>bracketleft</string>
+      <string>bracketright</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
       <string>ampersand</string>
       <string>period</string>
       <string>comma</string>
@@ -147,9 +153,9 @@
       <string>acute</string>
       <string>tilde</string>
       <string>dieresis</string>
-      <string>quote</string>
-      <string>.notdef</string>
+      <string>bocetoAcentos</string>
       <string>notdef</string>
+      <string>.notdef</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
