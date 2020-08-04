@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="2">
   <advance width="503"/>
   <unicode hex="003F"/>
@@ -18,7 +18,7 @@
       <point x="132" y="-23"/>
     </contour>
     <contour>
-      <point x="216" y="285" type="move"/>
+      <point x="216" y="285" type="line"/>
       <point x="291" y="290" type="line" smooth="yes"/>
       <point x="427" y="299"/>
       <point x="508" y="369"/>
@@ -29,9 +29,9 @@
       <point x="156" y="757"/>
       <point x="95" y="742"/>
       <point x="39" y="715" type="curve"/>
-      <point x="49" y="547" type="line"/>
+      <point x="39" y="547" type="line"/>
       <point x="115" y="547" type="line"/>
-      <point x="134" y="687" type="line"/>
+      <point x="135" y="687" type="line"/>
       <point x="98" y="648" type="line"/>
       <point x="170" y="670"/>
       <point x="214" y="673"/>
@@ -49,13 +49,12 @@
       <point x="154" y="161" type="line"/>
       <point x="215" y="161" type="line"/>
       <point x="232" y="321" type="line"/>
-      <point x="201" y="294" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0264,0.8567,0.7521,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.026,0.857,0.752,1</string>
+  </dict>
   </lib>
 </glyph>

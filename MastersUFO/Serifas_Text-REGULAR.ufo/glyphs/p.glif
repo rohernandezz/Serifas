@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="2">
   <advance width="604"/>
   <unicode hex="0070"/>
@@ -45,9 +45,5 @@
       <point x="433" y="70"/>
       <point x="466" y="123"/>
     </contour>
-    <contour>
-      <point x="185" y="94" type="move"/>
-    </contour>
-    <component base="space" xOffset="-13"/>
   </outline>
 </glyph>

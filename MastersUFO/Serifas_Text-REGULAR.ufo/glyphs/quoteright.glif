@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="2">
   <advance width="500"/>
   <unicode hex="2019"/>
@@ -25,9 +25,9 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0264,0.8567,0.7521,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.026,0.857,0.752,1</string>
+  </dict>
   </lib>
 </glyph>

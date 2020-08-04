@@ -1,19 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
   <advance width="712"/>
   <unicode hex="0054"/>
-  <guideline x="0" y="516" angle="0" identifier="R0D5iEWgbP"/>
   <outline>
     <contour>
-      <point x="636" y="655" type="line"/>
-      <point x="595" y="685.0" type="line"/>
-      <point x="613" y="454.0" type="line"/>
-      <point x="680" y="454.0" type="line"/>
-      <point x="695" y="740" type="line"/>
+      <point x="647.279" y="655" type="line"/>
+      <point x="604.121" y="691.13" type="line"/>
+      <point x="616.713" y="524.786" type="line"/>
+      <point x="683.713" y="524.786" type="line"/>
+      <point x="694" y="740" type="line"/>
       <point x="17" y="740" type="line"/>
-      <point x="32" y="454.0" type="line"/>
-      <point x="99" y="454.0" type="line"/>
-      <point x="117" y="685.0" type="line"/>
+      <point x="25.9509" y="542.991" type="line"/>
+      <point x="92.9509" y="542.991" type="line"/>
+      <point x="104.602" y="702.949" type="line"/>
       <point x="76" y="655" type="line"/>
     </contour>
     <contour>
@@ -29,4 +28,5 @@
       <point x="400" y="57" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="516"/>
 </glyph>

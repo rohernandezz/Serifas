@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="2">
   <advance width="412"/>
   <unicode hex="0066"/>
@@ -15,7 +15,7 @@
     </contour>
     <contour>
       <point x="212" y="551" type="line" smooth="yes"/>
-      <point x="212" y="661.0"/>
+      <point x="212" y="661"/>
       <point x="226" y="676"/>
       <point x="298" y="676" type="curve" smooth="yes"/>
       <point x="336" y="676"/>
