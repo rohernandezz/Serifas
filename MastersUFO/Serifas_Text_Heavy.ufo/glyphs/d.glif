@@ -90,6 +90,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-08-04 01:11:39 +0000</string>
 			<key>public.markColor</key>
 			<string>0.64,0.84,0.95,1</string>
 		</dict>

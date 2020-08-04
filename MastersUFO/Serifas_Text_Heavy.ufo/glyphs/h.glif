@@ -1,58 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="2">
-	<advance width="741"/>
+	<advance width="715"/>
 	<unicode hex="0068"/>
 	<outline>
 		<contour>
-			<point x="337" y="-1" type="line"/>
-			<point x="337" y="149" type="line"/>
-			<point x="227" y="202" type="line"/>
-			<point x="278" y="88" type="line"/>
-			<point x="278" y="760" type="line"/>
-			<point x="43" y="760" type="line"/>
-			<point x="43" y="597" type="line"/>
-			<point x="180" y="597" type="line"/>
-			<point x="128" y="669" type="line"/>
-			<point x="128" y="88" type="line"/>
-			<point x="161" y="202" type="line"/>
-			<point x="43" y="162" type="line"/>
-			<point x="43" y="-1" type="line"/>
+			<point x="319" y="-1" type="line"/>
+			<point x="319" y="149" type="line"/>
+			<point x="209" y="202" type="line"/>
+			<point x="260" y="88" type="line"/>
+			<point x="260" y="760" type="line"/>
+			<point x="25" y="760" type="line"/>
+			<point x="25" y="597" type="line"/>
+			<point x="162" y="597" type="line"/>
+			<point x="110" y="669" type="line"/>
+			<point x="110" y="88" type="line"/>
+			<point x="143" y="202" type="line"/>
+			<point x="25" y="162" type="line"/>
+			<point x="25" y="-1" type="line"/>
 		</contour>
 		<contour>
-			<point x="701" y="162" type="line"/>
-			<point x="589" y="202" type="line"/>
-			<point x="637" y="85" type="line"/>
-			<point x="637" y="369" type="line" smooth="yes"/>
-			<point x="637" y="512"/>
-			<point x="591" y="558"/>
-			<point x="489" y="558" type="curve" smooth="yes"/>
-			<point x="377" y="558"/>
-			<point x="329" y="514"/>
-			<point x="323" y="409" type="curve"/>
-			<point x="384" y="435" type="line"/>
-			<point x="250" y="435" type="line"/>
-			<point x="250" y="307" type="line"/>
-			<point x="293" y="356"/>
-			<point x="343" y="376"/>
-			<point x="400" y="376" type="curve" smooth="yes"/>
-			<point x="471" y="376"/>
-			<point x="487" y="350"/>
-			<point x="487" y="288" type="curve" smooth="yes"/>
-			<point x="487" y="85" type="line"/>
-			<point x="515" y="202" type="line"/>
-			<point x="443" y="149" type="line"/>
-			<point x="443" y="-1" type="line"/>
-			<point x="701" y="-1" type="line"/>
+			<point x="683" y="162" type="line"/>
+			<point x="571" y="202" type="line"/>
+			<point x="619" y="85" type="line"/>
+			<point x="619" y="369" type="line" smooth="yes"/>
+			<point x="619" y="512"/>
+			<point x="573" y="558"/>
+			<point x="471" y="558" type="curve" smooth="yes"/>
+			<point x="359" y="558"/>
+			<point x="311" y="514"/>
+			<point x="305" y="409" type="curve"/>
+			<point x="366" y="435" type="line"/>
+			<point x="232" y="435" type="line"/>
+			<point x="232" y="307" type="line"/>
+			<point x="275" y="366"/>
+			<point x="325" y="386"/>
+			<point x="382" y="386" type="curve" smooth="yes"/>
+			<point x="453" y="386"/>
+			<point x="469" y="360"/>
+			<point x="469" y="288" type="curve" smooth="yes"/>
+			<point x="469" y="85" type="line"/>
+			<point x="497" y="202" type="line"/>
+			<point x="425" y="149" type="line"/>
+			<point x="425" y="-1" type="line"/>
+			<point x="683" y="-1" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-08-03 00:51:33 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>l</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>n</string>
+			<string>2020-08-04 00:02:26 +0000</string>
 			<key>public.markColor</key>
 			<string>0.64,0.84,0.95,1</string>
 		</dict>

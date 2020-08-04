@@ -112,23 +112,169 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>abcdefghijklmnopqrstuv</string>
-		<string>fijo fonum
-mojino mijini hijino
-minimun nuhijo minujo
-finum jifunin
-oeoeoeoeee
-nenenennenenenenen 
+		<string>minimun bolfe
+olmien fueno jonol 
+gone gofe bone
+gifolom
+bone boge
+bobobob
+febogi
+deno
+bqueno 
+quenoli 
+
+
+
+
+
 
  
 
 
 </string>
-		<string> &amp;/comma -./zero 1/one/three/six ABCDEFGHIJKLMNOPQRSTUVabcdefghijklmnopqrstuvwxyzÑÜáñü¨Á</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>glyphOrder</string>
+			<key>value</key>
+			<array>
+				<string>space</string>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+				<string>D</string>
+				<string>E</string>
+				<string>F</string>
+				<string>G</string>
+				<string>H</string>
+				<string>I</string>
+				<string>J</string>
+				<string>K</string>
+				<string>L</string>
+				<string>M</string>
+				<string>N</string>
+				<string>Ntilde</string>
+				<string>O</string>
+				<string>P</string>
+				<string>Q</string>
+				<string>R</string>
+				<string>S</string>
+				<string>T</string>
+				<string>U</string>
+				<string>Udieresis</string>
+				<string>V</string>
+				<string>a</string>
+				<string>b</string>
+				<string>c</string>
+				<string>d</string>
+				<string>e</string>
+				<string>f</string>
+				<string>g</string>
+				<string>h</string>
+				<string>i</string>
+				<string>j</string>
+				<string>k</string>
+				<string>l</string>
+				<string>m</string>
+				<string>n</string>
+				<string>ntilde</string>
+				<string>o</string>
+				<string>p</string>
+				<string>q</string>
+				<string>r</string>
+				<string>s</string>
+				<string>t</string>
+				<string>u</string>
+				<string>udieresis</string>
+				<string>v</string>
+				<string>one</string>
+				<string>hyphen</string>
+				<string>ampersand</string>
+				<string>period</string>
+				<string>dieresis</string>
+				<string>r.alt</string>
+				<string>Aacute</string>
+				<string>aacute</string>
+				<string>,</string>
+				<string>0</string>
+				<string>1</string>
+				<string>3</string>
+				<string>6</string>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>glyphOrder</string>
+			<key>value</key>
+			<array>
+				<string>space</string>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+				<string>D</string>
+				<string>E</string>
+				<string>F</string>
+				<string>G</string>
+				<string>H</string>
+				<string>I</string>
+				<string>J</string>
+				<string>K</string>
+				<string>L</string>
+				<string>M</string>
+				<string>N</string>
+				<string>Ntilde</string>
+				<string>O</string>
+				<string>P</string>
+				<string>Q</string>
+				<string>R</string>
+				<string>S</string>
+				<string>T</string>
+				<string>U</string>
+				<string>Udieresis</string>
+				<string>V</string>
+				<string>a</string>
+				<string>b</string>
+				<string>c</string>
+				<string>d</string>
+				<string>e</string>
+				<string>f</string>
+				<string>g</string>
+				<string>h</string>
+				<string>i</string>
+				<string>j</string>
+				<string>k</string>
+				<string>l</string>
+				<string>m</string>
+				<string>n</string>
+				<string>ntilde</string>
+				<string>o</string>
+				<string>p</string>
+				<string>q</string>
+				<string>r</string>
+				<string>s</string>
+				<string>t</string>
+				<string>u</string>
+				<string>udieresis</string>
+				<string>v</string>
+				<string>one</string>
+				<string>hyphen</string>
+				<string>ampersand</string>
+				<string>period</string>
+				<string>dieresis</string>
+				<string>r.alt</string>
+				<string>Aacute</string>
+				<string>aacute</string>
+				<string>,</string>
+				<string>0</string>
+				<string>1</string>
+				<string>3</string>
+				<string>6</string>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>glyphOrder</string>
@@ -207,6 +353,68 @@ nenenennenenenenen
 	</array>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>caps</string>
+					<key>position</key>
+					<integer>765</integer>
+					<key>size</key>
+					<integer>15</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>position</key>
+					<integer>540</integer>
+					<key>size</key>
+					<integer>19</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>position</key>
+					<integer>0</integer>
+					<key>size</key>
+					<integer>-19</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TTFZones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>caps</string>
+					<key>position</key>
+					<integer>765</integer>
+					<key>size</key>
+					<integer>15</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>xhgt</string>
+					<key>position</key>
+					<integer>540</integer>
+					<key>size</key>
+					<integer>19</integer>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>base</string>
+					<key>position</key>
+					<integer>0</integer>
+					<key>size</key>
+					<integer>-19</integer>
+				</dict>
+			</array>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>TTFZones</string>
@@ -398,7 +606,6 @@ nenenennenenenenen
 		<string>udieresis</string>
 		<string>v</string>
 		<string>one</string>
-		<string>one</string>
 		<string>hyphen</string>
 		<string>ampersand</string>
 		<string>period</string>
@@ -410,6 +617,8 @@ nenenennenenenenen
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>b.alt</string>
+		<string>g.alt</string>
 		<string>zero</string>
 		<string>three</string>
 		<string>six</string>

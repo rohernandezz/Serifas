@@ -15,20 +15,10 @@
 		<dict>
 			<key>angle</key>
 			<integer>0</integer>
-			<key>name</key>
-			<string>UC_serif_top</string>
 			<key>x</key>
-			<integer>-53</integer>
+			<integer>205</integer>
 			<key>y</key>
-			<integer>386</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>x</key>
-			<integer>209</integer>
-			<key>y</key>
-			<integer>163</integer>
+			<integer>162</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -46,9 +36,9 @@
 			<key>name</key>
 			<string>LC_serif_top</string>
 			<key>x</key>
-			<integer>123</integer>
+			<integer>117</integer>
 			<key>y</key>
-			<integer>377</integer>
+			<integer>386</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
