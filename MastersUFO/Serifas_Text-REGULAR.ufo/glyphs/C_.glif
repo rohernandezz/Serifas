@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="C" format="2">
   <advance width="663"/>
   <unicode hex="0043"/>
@@ -24,14 +24,20 @@
       <point x="232" y="72"/>
       <point x="386.957" y="72" type="curve" smooth="yes"/>
       <point x="472" y="72"/>
-      <point x="519" y="97"/>
-      <point x="573" y="148" type="curve"/>
-      <point x="625" y="77" type="line"/>
-      <point x="567" y="22"/>
-      <point x="492" y="-18"/>
+      <point x="552" y="97"/>
+      <point x="613" y="125" type="curve"/>
+      <point x="645" y="65" type="line"/>
+      <point x="573" y="23"/>
+      <point x="484" y="-18"/>
       <point x="366.29" y="-18" type="curve" smooth="yes"/>
       <point x="155" y="-18"/>
       <point x="60" y="95"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.2123,0.3156,1</string>
+    </dict>
+  </lib>
 </glyph>

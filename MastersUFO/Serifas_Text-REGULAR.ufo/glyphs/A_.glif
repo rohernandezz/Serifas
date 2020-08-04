@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
   <advance width="735"/>
   <unicode hex="0041"/>
+  <guideline x="0" y="676" angle="0" identifier="q6TP8oKuIn"/>
+  <guideline x="0" y="656" angle="0" identifier="wUBL7VvHlA"/>
   <outline>
     <contour>
       <point x="180" y="239" type="line"/>
@@ -39,7 +41,11 @@
       <point x="325" y="740" type="line"/>
       <point x="135" y="740" type="line"/>
     </contour>
+    <contour>
+      <point x="418" y="614" type="line"/>
+      <point x="448" y="614" type="line"/>
+      <point x="448" y="641" type="line"/>
+      <point x="418" y="641" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="676"/>
-  <guideline angle="0" x="0" y="656"/>
 </glyph>
