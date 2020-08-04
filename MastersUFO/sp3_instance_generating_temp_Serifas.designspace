@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0" maximum="1000" minimum="0" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="Acrata_Beta_1" filename="Serifas_Text-REGULAR.ufo" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Acrata_Beta" filename="Serifas_Text_Heavy.ufo" stylename="Heavy">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Acrata" filename="instances/Acrata-wght675.14.ufo" postscriptfontname="Acrata-wght675.14" stylename="wght675.14">
+            <location>
+                <dimension name="weight" xvalue="675.137761" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
