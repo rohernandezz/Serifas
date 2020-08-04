@@ -10,5 +10,9 @@
       <string>background</string>
       <string>glyphs.background</string>
     </array>
+    <array>
+      <string>SKETCH</string>
+      <string>glyphs.S_K_E_T_C_H_</string>
+    </array>
   </array>
 </plist>
