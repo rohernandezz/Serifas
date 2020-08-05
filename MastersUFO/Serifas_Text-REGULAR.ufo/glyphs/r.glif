@@ -26,25 +26,25 @@
       <point x="392" y="357" type="line"/>
     </contour>
     <contour>
-      <point x="205" y="540" type="line"/>
-      <point x="47" y="540" type="line"/>
-      <point x="47" y="480" type="line"/>
-      <point x="145" y="443" type="line"/>
-      <point x="117" y="485" type="line"/>
-      <point x="117" y="56" type="line"/>
-      <point x="145" y="98" type="line"/>
-      <point x="47" y="60" type="line"/>
-      <point x="47" y="0" type="line"/>
-      <point x="338" y="0" type="line"/>
-      <point x="338" y="60" type="line"/>
-      <point x="177" y="100" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="349" y="60" type="line"/>
+      <point x="185" y="95" type="line"/>
       <point x="205" y="56" type="line"/>
+      <point x="205" y="540" type="line"/>
+      <point x="51" y="540" type="line"/>
+      <point x="51" y="480" type="line"/>
+      <point x="154" y="443" type="line"/>
+      <point x="125" y="485" type="line"/>
+      <point x="125" y="56" type="line"/>
+      <point x="153" y="95" type="line"/>
+      <point x="51" y="60" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.2123,0.3156,1</string>
+      <string>0.0896,0.6053,1,1</string>
     </dict>
   </lib>
 </glyph>

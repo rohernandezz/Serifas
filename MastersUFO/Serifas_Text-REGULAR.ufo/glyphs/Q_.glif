@@ -6,18 +6,18 @@
     <contour>
       <point x="358" y="11.0" type="line"/>
       <point x="439" y="11.0" type="line"/>
-      <point x="439" y="-109" type="line"/>
-      <point x="408" y="-56" type="line"/>
-      <point x="680" y="-78" type="line"/>
-      <point x="680" y="-143" type="line"/>
-      <point x="358" y="-154" type="line"/>
+      <point x="439" y="-139" type="line"/>
+      <point x="408" y="-76" type="line"/>
+      <point x="680" y="-98" type="line"/>
+      <point x="680" y="-183" type="line"/>
+      <point x="358" y="-194" type="line"/>
     </contour>
     <component base="O" xOffset="19" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.2123,0.3156,1</string>
+      <string>0.0896,0.6053,1,1</string>
     </dict>
   </lib>
 </glyph>
