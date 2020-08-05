@@ -4,8 +4,6 @@
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="228" y="-1" type="line"/>
-      <point x="342" y="-1" type="line"/>
       <point x="532" y="480" type="line"/>
       <point x="504" y="454" type="line"/>
       <point x="600" y="480" type="line"/>
@@ -14,8 +12,10 @@
       <point x="358" y="480" type="line"/>
       <point x="461" y="459" type="line"/>
       <point x="454" y="483" type="line"/>
-      <point x="282" y="41" type="line"/>
-      <point x="304" y="41" type="line"/>
+      <point x="287" y="59" type="line"/>
+      <point x="327" y="101" type="line"/>
+      <point x="240" y="101" type="line"/>
+      <point x="293" y="69" type="line"/>
       <point x="135" y="483" type="line"/>
       <point x="126" y="459" type="line"/>
       <point x="230" y="480" type="line"/>
@@ -24,18 +24,14 @@
       <point x="-25" y="480" type="line"/>
       <point x="88" y="454" type="line"/>
       <point x="39" y="483" type="line"/>
-    </contour>
-    <contour>
-      <point x="252" y="40" type="line"/>
-      <point x="307" y="40" type="line"/>
-      <point x="307" y="94" type="line"/>
-      <point x="252" y="94" type="line"/>
+      <point x="228" y="-1" type="line"/>
+      <point x="342" y="-1" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.8,0.4,1</string>
+      <string>1,0.2123,0.3156,1</string>
     </dict>
   </lib>
 </glyph>

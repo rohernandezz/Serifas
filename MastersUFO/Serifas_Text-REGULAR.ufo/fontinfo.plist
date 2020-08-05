@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>740</integer>
     <key>descender</key>
-    <integer>-210</integer>
+    <integer>-250</integer>
     <key>familyName</key>
     <string>Acrata_Beta_1</string>
     <key>guidelines</key>
@@ -16,7 +16,19 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>DK1Au7Y6gs</string>
+        <string>XB3xPwdNbg</string>
+        <key>name</key>
+        <string>m</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>250</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>AVYPEmpw1Y</string>
         <key>name</key>
         <string>LC_Serif_bottom</string>
         <key>x</key>
@@ -28,19 +40,9 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>Us8EJZBIuh</string>
+        <string>dETeJbNXJq</string>
         <key>name</key>
-        <string>LC_serif_top</string>
-        <key>x</key>
-        <integer>448</integer>
-        <key>y</key>
-        <integer>498</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>uANHJ2bKVl</string>
+        <string>f1</string>
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
@@ -50,35 +52,13 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>A5xRX8QaG2</string>
+        <string>5AetS1Ea8b</string>
         <key>name</key>
         <string>UC_Serif_top</string>
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>676</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>FzIP140TNm</string>
-        <key>x</key>
-        <integer>0</integer>
-        <key>y</key>
-        <integer>656</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>BWIe6POlcS</string>
-        <key>name</key>
-        <string>LC_wedge_top</string>
-        <key>x</key>
-        <integer>-300</integer>
-        <key>y</key>
-        <integer>454</integer>
+        <integer>675</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -101,8 +81,6 @@
     <string>2020/07/30 05:03:19</string>
     <key>openTypeHeadFlags</key>
     <array/>
-    <key>openTypeNameCompatibleFullName</key>
-    <string>Acrata_Beta_1 Regular</string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Acrata_Beta_1</string>
     <key>openTypeNamePreferredSubfamilyName</key>

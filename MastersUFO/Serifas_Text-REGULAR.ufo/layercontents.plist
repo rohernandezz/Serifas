@@ -3,12 +3,16 @@
 <plist version="1.0">
   <array>
     <array>
-      <string>foreground</string>
+      <string>public.default</string>
       <string>glyphs</string>
     </array>
     <array>
-      <string>background</string>
-      <string>glyphs.background</string>
+      <string>Regular</string>
+      <string>glyphs.R_egular</string>
+    </array>
+    <array>
+      <string>y</string>
+      <string>glyphs.y</string>
     </array>
   </array>
 </plist>
