@@ -4,8 +4,8 @@
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="417" y="457" type="line"/>
-      <point x="402" y="458" type="line"/>
+      <point x="419" y="457" type="line"/>
+      <point x="404" y="458" type="line"/>
       <point x="518" y="0" type="line"/>
       <point x="660" y="0" type="line"/>
       <point x="776" y="477" type="line"/>
@@ -20,8 +20,8 @@
       <point x="634" y="90" type="line"/>
       <point x="554" y="90" type="line"/>
       <point x="576" y="68" type="line"/>
-      <point x="469" y="498" type="line"/>
-      <point x="349" y="498" type="line"/>
+      <point x="471" y="498" type="line"/>
+      <point x="351" y="498" type="line"/>
       <point x="231" y="59" type="line"/>
       <point x="269" y="90" type="line"/>
       <point x="182" y="90" type="line"/>
@@ -38,10 +38,10 @@
       <point x="292" y="-1" type="line"/>
     </contour>
     <contour>
-      <point x="449" y="405" type="line"/>
-      <point x="449" y="484" type="line"/>
-      <point x="373" y="484" type="line"/>
-      <point x="373" y="405" type="line"/>
+      <point x="451" y="405" type="line"/>
+      <point x="451" y="484" type="line"/>
+      <point x="375" y="484" type="line"/>
+      <point x="375" y="405" type="line"/>
     </contour>
   </outline>
   <lib>
