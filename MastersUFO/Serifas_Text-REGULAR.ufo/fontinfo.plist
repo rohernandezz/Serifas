@@ -9,7 +9,7 @@
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
-    <string>Acrata_Beta_2</string>
+    <string>Acrata_Beta_3</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -34,7 +34,7 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>64</integer>
+        <integer>60</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -44,9 +44,9 @@
         <key>name</key>
         <string>f1</string>
         <key>x</key>
-        <integer>0</integer>
+        <integer>233</integer>
         <key>y</key>
-        <integer>84</integer>
+        <integer>86</integer>
       </dict>
       <dict>
         <key>angle</key>

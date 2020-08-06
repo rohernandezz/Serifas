@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="apostrophe" format="2">
+<glyph name="quotesingle" format="2">
   <advance width="200"/>
+  <unicode hex="0027"/>
   <outline>
     <contour>
       <point x="50" y="750" type="line"/>
