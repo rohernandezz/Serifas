@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="2">
-	<advance width="623"/>
-	<unicode hex="0056"/>
-	<guideline y="630"/>
-	<guideline y="129"/>
-	<outline>
-		<contour>
-			<point x="-16.0645" y="663.134" type="line"/>
-			<point x="38.9982" y="630.488" type="line"/>
-			<point x="-65.0018" y="630.488" type="line"/>
-			<point x="-65.0018" y="740.488" type="line"/>
-			<point x="223.998" y="740.488" type="line"/>
-			<point x="223.998" y="652.488" type="line"/>
-			<point x="111.998" y="621.488" type="line"/>
-			<point x="132.07" y="660.892" type="line"/>
-			<point x="355.117" y="48.2062" type="line"/>
-			<point x="299.377" y="49.3273" type="line"/>
-			<point x="527.388" y="675.466" type="line"/>
-			<point x="526.689" y="630.488" type="line"/>
-			<point x="427.998" y="630.488" type="line"/>
-			<point x="427.998" y="740.488" type="line"/>
-			<point x="735.998" y="740.488" type="line"/>
-			<point x="735.998" y="652.488" type="line"/>
-			<point x="632.998" y="624.488" type="line"/>
-			<point x="668.998" y="662.488" type="line"/>
-			<point x="413.547" y="0.15183" type="line"/>
-			<point x="239.547" y="0.15183" type="line"/>
-		</contour>
-	</outline>
+  <advance width="623"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="-16.0645" y="663.134" type="line"/>
+      <point x="38.9982" y="630.488" type="line"/>
+      <point x="-65.0018" y="630.488" type="line"/>
+      <point x="-65.0018" y="740.488" type="line"/>
+      <point x="223.998" y="740.488" type="line"/>
+      <point x="223.998" y="652.488" type="line"/>
+      <point x="111.998" y="621.488" type="line"/>
+      <point x="132.07" y="660.892" type="line"/>
+      <point x="355.117" y="48.2062" type="line"/>
+      <point x="299.377" y="49.3273" type="line"/>
+      <point x="527.388" y="675.466" type="line"/>
+      <point x="526.689" y="630.488" type="line"/>
+      <point x="427.998" y="630.488" type="line"/>
+      <point x="427.998" y="740.488" type="line"/>
+      <point x="735.998" y="740.488" type="line"/>
+      <point x="735.998" y="652.488" type="line"/>
+      <point x="632.998" y="624.488" type="line"/>
+      <point x="668.998" y="662.488" type="line"/>
+      <point x="413.547" y="0.15177" type="line"/>
+      <point x="239.547" y="0.15177" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="630"/>
+  <guideline angle="0" x="0" y="129"/>
 </glyph>

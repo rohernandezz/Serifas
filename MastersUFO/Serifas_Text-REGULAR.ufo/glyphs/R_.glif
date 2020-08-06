@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
   <advance width="701"/>
   <unicode hex="0052"/>
@@ -34,7 +34,7 @@
       <point x="212" y="687" type="line"/>
       <point x="182" y="658" type="line"/>
       <point x="374" y="658" type="line" smooth="yes"/>
-      <point x="499" y="658.0"/>
+      <point x="499" y="658"/>
       <point x="538" y="630"/>
       <point x="538" y="521" type="curve" smooth="yes"/>
       <point x="538" y="405"/>
@@ -44,9 +44,9 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.2123,0.3156,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.212,0.316,1</string>
+  </dict>
   </lib>
 </glyph>

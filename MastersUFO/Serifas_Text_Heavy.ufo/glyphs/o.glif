@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o" format="2">
   <advance width="576"/>
   <unicode hex="006F"/>
@@ -33,11 +33,11 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020-08-04 00:01:36 +0000</string>
-      <key>public.markColor</key>
-      <string>0.6433,0.837,0.9473,1</string>
-    </dict>
+  <dict>
+    <key>com.schriftgestaltung.Glyphs.lastChange</key>
+    <string>2020-08-04 00:01:36 +0000</string>
+  <key>public.markColor</key>
+  <string>0.643,0.837,0.947,1</string>
+  </dict>
   </lib>
 </glyph>

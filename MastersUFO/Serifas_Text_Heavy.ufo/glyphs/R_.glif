@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
   <advance width="662"/>
   <unicode hex="0052"/>
@@ -10,8 +10,8 @@
       <point x="218" y="81.3" type="line"/>
       <point x="175" y="110.3" type="line"/>
       <point x="329" y="110.3" type="line"/>
-      <point x="329" y="0.29999" type="line"/>
-      <point x="12" y="0.29999" type="line"/>
+      <point x="329" y="0.299988" type="line"/>
+      <point x="12" y="0.299988" type="line"/>
       <point x="12" y="88.3" type="line"/>
       <point x="120" y="117.3" type="line"/>
       <point x="86" y="89.3" type="line"/>
@@ -41,8 +41,8 @@
       <point x="606" y="53.8116" type="line"/>
       <point x="513.174" y="110" type="line"/>
       <point x="660" y="110" type="line"/>
-      <point x="660" y="0.0053" type="line"/>
-      <point x="486" y="0.0053" type="line"/>
+      <point x="660" y="0.00530243" type="line"/>
+      <point x="486" y="0.00530243" type="line"/>
     </contour>
   </outline>
 </glyph>

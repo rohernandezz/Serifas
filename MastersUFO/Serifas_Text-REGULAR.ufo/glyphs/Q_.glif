@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
   <advance width="758"/>
   <unicode hex="0051"/>
   <outline>
+    <component base="O" xOffset="19" yOffset="-1"/>
     <contour>
-      <point x="358" y="11.0" type="line"/>
-      <point x="439" y="11.0" type="line"/>
+      <point x="358" y="11" type="line"/>
+      <point x="439" y="11" type="line"/>
       <point x="439" y="-109" type="line"/>
       <point x="408" y="-56" type="line"/>
       <point x="680" y="-78" type="line"/>
       <point x="680" y="-143" type="line"/>
       <point x="358" y="-154" type="line"/>
     </contour>
-    <component base="O" xOffset="19" yOffset="-1"/>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.2123,0.3156,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.212,0.316,1</string>
+  </dict>
   </lib>
 </glyph>

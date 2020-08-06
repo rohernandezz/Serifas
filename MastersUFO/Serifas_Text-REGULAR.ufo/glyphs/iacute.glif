@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="322"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <component base="acute" xOffset="-176.18"/>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="60" type="line"/>
+      <point x="184" y="95" type="line"/>
+      <point x="212" y="56" type="line"/>
+      <point x="212" y="540" type="line"/>
+      <point x="50" y="540" type="line"/>
+      <point x="50" y="480" type="line"/>
+      <point x="153" y="443" type="line"/>
+      <point x="124" y="485" type="line"/>
+      <point x="124" y="56" type="line"/>
+      <point x="152" y="95" type="line"/>
+      <point x="50" y="60" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,10 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
   <advance width="700"/>
   <unicode hex="004B"/>
-  <guideline x="0" y="84" angle="0" identifier="wL70YQliz8"/>
-  <guideline x="699" y="0" angle="90" identifier="1bI6A5O3Ys"/>
-  <guideline x="554" y="654" angle="0" identifier="rM3T8kvtfg"/>
   <outline>
     <contour>
       <point x="212" y="698" type="line"/>
@@ -55,10 +52,13 @@
       <point x="559" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="84"/>
+  <guideline angle="90" x="699" y="0"/>
+  <guideline angle="0" x="0" y="654"/>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.2123,0.3156,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.212,0.316,1</string>
+  </dict>
   </lib>
 </glyph>
