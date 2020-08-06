@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft" format="2">
   <advance width="500"/>
   <unicode hex="0028"/>
@@ -20,10 +20,4 @@
       <point x="122" y="557"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.026,0.857,0.752,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -9,7 +9,7 @@
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
-    <string>Acrata_Beta_1</string>
+    <string>Acrata_Beta_2</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -81,10 +81,6 @@
     <string>2020/07/30 05:03:19</string>
     <key>openTypeHeadFlags</key>
     <array/>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>Acrata_Beta_1</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Regular</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.000</string>
     <key>openTypeOS2Panose</key>
@@ -139,12 +135,8 @@
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
-    <key>postscriptFontName</key>
-    <string>Acrata_Beta_1-Regular</string>
     <key>postscriptForceBold</key>
     <false/>
-    <key>postscriptFullName</key>
-    <string>Acrata_Beta_1Regular</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -157,10 +149,6 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
-    <key>postscriptWeightName</key>
-    <string>Normal</string>
-    <key>styleMapFamilyName</key>
-    <string>Acrata_Beta_1 Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

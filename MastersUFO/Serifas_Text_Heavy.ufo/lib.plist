@@ -642,6 +642,9 @@ quenoli
       <string>three</string>
       <string>six</string>
       <string>comma</string>
+      <string>iacute</string>
+      <string>dotlessi</string>
+      <string>acute</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

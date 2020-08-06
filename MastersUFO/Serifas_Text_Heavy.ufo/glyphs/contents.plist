@@ -56,6 +56,8 @@
     <string>a.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>b</key>
@@ -70,6 +72,8 @@
     <string>d.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>dotlessi</key>
+    <string>dotlessi.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>f</key>
@@ -84,6 +88,8 @@
     <string>hyphen.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>iacute</key>
+    <string>iacute.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>k</key>
