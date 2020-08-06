@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-  <advance width="306"/>
+  <advance width="290"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="194" y="775" type="line"/>
-      <point x="44" y="751" type="line"/>
-      <point x="44" y="691" type="line"/>
-      <point x="145" y="660" type="line"/>
-      <point x="114" y="702" type="line"/>
-      <point x="114" y="56" type="line"/>
-      <point x="142" y="98" type="line"/>
-      <point x="44" y="60" type="line"/>
-      <point x="44" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
-      <point x="277" y="60" type="line"/>
-      <point x="166" y="96" type="line"/>
-      <point x="194" y="56" type="line"/>
+      <point x="175" y="775" type="line"/>
+      <point x="25" y="751" type="line"/>
+      <point x="25" y="691" type="line"/>
+      <point x="126" y="660" type="line"/>
+      <point x="95" y="702" type="line"/>
+      <point x="95" y="56" type="line"/>
+      <point x="123" y="98" type="line"/>
+      <point x="25" y="60" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="258" y="60" type="line"/>
+      <point x="147" y="96" type="line"/>
+      <point x="175" y="56" type="line"/>
     </contour>
   </outline>
 </glyph>

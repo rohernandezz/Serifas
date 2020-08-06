@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="758"/>
+  <advance width="764"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="335" y="11" type="line"/>
-      <point x="413" y="10" type="line"/>
-      <point x="413" y="-60" type="line" smooth="yes"/>
-      <point x="413" y="-110.19718309859155"/>
-      <point x="435.0" y="-126.0"/>
-      <point x="508" y="-126" type="curve" smooth="yes"/>
-      <point x="559" y="-126.0"/>
-      <point x="604" y="-119"/>
-      <point x="652" y="-105" type="curve"/>
-      <point x="670" y="-176" type="line"/>
-      <point x="594.6457738581903" y="-201.11807538060324"/>
-      <point x="537.3089005235603" y="-213.0"/>
-      <point x="478" y="-213" type="curve" smooth="yes"/>
-      <point x="382.6666666666667" y="-213.0"/>
-      <point x="335.0" y="-172.0"/>
-      <point x="335" y="-90" type="curve"/>
+      <point x="338" y="11" type="line"/>
+      <point x="416" y="10" type="line"/>
+      <point x="416" y="-60" type="line" smooth="yes"/>
+      <point x="416" y="-110"/>
+      <point x="438" y="-126"/>
+      <point x="511" y="-126" type="curve" smooth="yes"/>
+      <point x="562" y="-126"/>
+      <point x="607" y="-119"/>
+      <point x="655" y="-105" type="curve"/>
+      <point x="673" y="-176" type="line"/>
+      <point x="598" y="-201"/>
+      <point x="540" y="-213"/>
+      <point x="481" y="-213" type="curve" smooth="yes"/>
+      <point x="386" y="-213"/>
+      <point x="338" y="-172"/>
+      <point x="338" y="-90" type="curve"/>
     </contour>
-    <component base="O" yOffset="-1"/>
+    <component base="O" xOffset="3" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

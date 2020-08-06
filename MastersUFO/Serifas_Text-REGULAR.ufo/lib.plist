@@ -59,8 +59,20 @@
     <key>com.typemytype.robofont.compileSettings.layerName</key>
     <string>foreground</string>
     <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Users/Ro/Desktop/Serifas_Text-REGULAR_conAcentos.otf</string>
+    <string>/Users/Ro/Documents/Work/Serifas/MastersUFO/Serifas_Text-REGULAR_6Ago_530PM.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.magnetic.EgDokUwvK1</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.Em09E2bC3N</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.qKpYahf2m3</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.EgDokUwvK1</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.Em09E2bC3N</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.qKpYahf2m3</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
@@ -189,6 +201,7 @@
       <string>tilde</string>
       <string>dieresis</string>
       <string>dotaccent</string>
+      <string>*</string>
       <string>notdef</string>
       <string>fi</string>
       <string>fl</string>

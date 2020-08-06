@@ -28,37 +28,49 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>AVYPEmpw1Y</string>
-        <key>name</key>
-        <string>LC_Serif_bottom</string>
-        <key>x</key>
-        <integer>0</integer>
-        <key>y</key>
-        <integer>60</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>dETeJbNXJq</string>
-        <key>name</key>
-        <string>f1</string>
-        <key>x</key>
-        <integer>233</integer>
-        <key>y</key>
-        <integer>86</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
         <string>5AetS1Ea8b</string>
         <key>name</key>
         <string>UC_Serif_top</string>
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>675</integer>
+        <integer>676</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>EgDokUwvK1</string>
+        <key>name</key>
+        <string>cap</string>
+        <key>x</key>
+        <integer>50</integer>
+        <key>y</key>
+        <integer>93</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>qKpYahf2m3</string>
+        <key>name</key>
+        <string>UC_serif_bottom</string>
+        <key>x</key>
+        <integer>-15</integer>
+        <key>y</key>
+        <integer>64</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>Em09E2bC3N</string>
+        <key>name</key>
+        <string>cap</string>
+        <key>x</key>
+        <integer>-50</integer>
+        <key>y</key>
+        <integer>648</integer>
       </dict>
     </array>
     <key>italicAngle</key>

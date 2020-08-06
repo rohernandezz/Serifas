@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>*</key>
+    <string>_.glif</string>
     <key>.notdef</key>
     <string>_notdef.glif</string>
     <key>A</key>
@@ -96,6 +98,8 @@
     <string>d.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>dotaccent</key>
+    <string>dotaccent.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
     <key>e</key>
@@ -104,6 +108,8 @@
     <string>eacute.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>ellipsis</key>
+    <string>ellipsis.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>exclamdown</key>
@@ -116,6 +122,8 @@
     <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hyphen</key>
