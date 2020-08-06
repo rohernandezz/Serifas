@@ -185,8 +185,10 @@
       <string>slash</string>
       <string>periodcentered</string>
       <string>acute</string>
+      <string>grave</string>
       <string>tilde</string>
       <string>dieresis</string>
+      <string>dotaccent</string>
       <string>notdef</string>
       <string>fi</string>
       <string>fl</string>

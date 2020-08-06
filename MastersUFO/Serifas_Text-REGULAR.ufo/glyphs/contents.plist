@@ -6,8 +6,6 @@
     <string>_notdef.glif</string>
     <key>A</key>
     <string>A_.glif</string>
-    <key>AE</key>
-    <string>A_E_.glif</string>
     <key>Aacute</key>
     <string>A_acute.glif</string>
     <key>B</key>
@@ -96,6 +94,8 @@
     <string>d.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>dotaccent</key>
+    <string>dotaccent.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
     <key>e</key>
@@ -116,6 +116,8 @@
     <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hyphen</key>

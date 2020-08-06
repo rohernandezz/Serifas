@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iacute" format="2">
-  <advance width="500"/>
+  <advance width="359"/>
   <unicode hex="00CD"/>
   <outline>
+    <contour>
+      <point x="197" y="998" type="line"/>
+      <point x="310" y="998" type="line"/>
+      <point x="212" y="833" type="line"/>
+      <point x="131" y="833" type="line"/>
+    </contour>
     <component base="I"/>
   </outline>
 </glyph>

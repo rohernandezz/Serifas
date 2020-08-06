@@ -6,6 +6,8 @@
     <string>_notdef.glif</string>
     <key>A</key>
     <string>A_.glif</string>
+    <key>AE</key>
+    <string>A_E_.glif</string>
     <key>Aacute</key>
     <string>A_acute.glif</string>
     <key>B</key>
@@ -170,6 +172,8 @@
     <string>quoteleft.glif</string>
     <key>quoteright</key>
     <string>quoteright.glif</string>
+    <key>quotesingle</key>
+    <string>quotesingle.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>s</key>
