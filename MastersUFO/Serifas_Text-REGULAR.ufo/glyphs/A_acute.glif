@@ -1,14 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aacute" format="2">
-  <advance width="764"/>
+  <advance width="733"/>
   <unicode hex="00C1"/>
   <outline>
-    <contour>
-      <point x="388" y="998" type="line"/>
-      <point x="501" y="998" type="line"/>
-      <point x="403" y="833" type="line"/>
-      <point x="322" y="833" type="line"/>
-    </contour>
     <component base="A"/>
+    <component base="acute.cap" xOffset="149"/>
   </outline>
 </glyph>
