@@ -144,8 +144,8 @@
     <string>n.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
-    <key>notdef</key>
-    <string>notdef.glif</string>
+    <key>notfed</key>
+    <string>notfed.glif</string>
     <key>ntilde</key>
     <string>ntilde.glif</string>
     <key>o</key>
@@ -160,6 +160,8 @@
     <string>parenleft.glif</string>
     <key>parenright</key>
     <string>parenright.glif</string>
+    <key>percent</key>
+    <string>percent.glif</string>
     <key>period</key>
     <string>period.glif</string>
     <key>q</key>

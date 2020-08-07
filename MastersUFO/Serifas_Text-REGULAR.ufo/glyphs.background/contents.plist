@@ -80,6 +80,8 @@
     <string>aacute.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
+    <key>acute.cap</key>
+    <string>acute.cap.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>b</key>
@@ -144,8 +146,8 @@
     <string>n.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
-    <key>notdef</key>
-    <string>notdef.glif</string>
+    <key>notfed</key>
+    <string>notfed.glif</string>
     <key>ntilde</key>
     <string>ntilde.glif</string>
     <key>numbersign</key>
