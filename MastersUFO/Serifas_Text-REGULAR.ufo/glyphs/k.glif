@@ -1,52 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="579"/>
+  <advance width="596"/>
   <unicode hex="006B"/>
+  <guideline x="0" y="322" angle="0" identifier="ByaEgZyva8"/>
   <outline>
     <contour>
-      <point x="46" y="0" type="line"/>
-      <point x="254" y="0" type="line"/>
-      <point x="254" y="60" type="line"/>
-      <point x="166" y="93" type="line"/>
-      <point x="194" y="51" type="line"/>
-      <point x="194" y="760" type="line"/>
-      <point x="46" y="760" type="line"/>
-      <point x="46" y="700" type="line"/>
-      <point x="134" y="661" type="line"/>
-      <point x="106" y="705" type="line"/>
-      <point x="106" y="51" type="line"/>
-      <point x="134" y="93" type="line"/>
-      <point x="46" y="60" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="506" y="65" type="line"/>
+      <point x="363" y="295" type="line"/>
+      <point x="343" y="238" type="line"/>
+      <point x="502" y="471" type="line"/>
+      <point x="426" y="498" type="line"/>
+      <point x="270" y="268" type="line"/>
+      <point x="342" y="323" type="line"/>
+      <point x="137" y="323" type="line"/>
+      <point x="137" y="238" type="line"/>
+      <point x="353" y="238" type="line"/>
+      <point x="296" y="257" type="line"/>
+      <point x="455" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="274" y="265" type="line"/>
-      <point x="455" y="0" type="line"/>
-      <point x="589" y="0" type="line"/>
-      <point x="589" y="60" type="line"/>
-      <point x="466" y="85" type="line"/>
-      <point x="500" y="59" type="line"/>
-      <point x="359" y="270" type="line"/>
-      <point x="359" y="287" type="line"/>
-      <point x="509" y="488" type="line"/>
-      <point x="436" y="443" type="line"/>
-      <point x="585" y="480" type="line"/>
-      <point x="585" y="540" type="line"/>
-      <point x="314" y="540" type="line"/>
-      <point x="314" y="480" type="line"/>
-      <point x="414" y="451" type="line"/>
-      <point x="433" y="502" type="line"/>
-      <point x="262" y="272" type="line"/>
-      <point x="329" y="322" type="line"/>
-      <point x="156" y="322" type="line"/>
-      <point x="156" y="244" type="line"/>
-      <point x="340" y="244" type="line"/>
+      <point x="406" y="450" type="line"/>
+      <point x="441" y="440" type="line"/>
+      <point x="575" y="481" type="line"/>
+      <point x="575" y="540" type="line"/>
+      <point x="304" y="540" type="line"/>
+      <point x="304" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="247" type="line"/>
+      <point x="376" y="215" type="line"/>
+      <point x="376" y="322" type="line"/>
+      <point x="323" y="292" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="775" type="line"/>
+      <point x="35" y="751" type="line"/>
+      <point x="35" y="691" type="line"/>
+      <point x="126" y="660" type="line"/>
+      <point x="95" y="702" type="line"/>
+      <point x="95" y="56" type="line"/>
+      <point x="123" y="98" type="line"/>
+      <point x="35" y="60" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="60" type="line"/>
+      <point x="147" y="96" type="line"/>
+      <point x="175" y="56" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="0" type="line"/>
+      <point x="452" y="0" type="line"/>
+      <point x="456" y="7" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="579" y="60" type="line"/>
+      <point x="456" y="105" type="line"/>
+      <point x="425" y="89" type="line"/>
+      <point x="353" y="60" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="322"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.212,0.316,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6433,0.837,0.9473,1</string>
+    </dict>
   </lib>
 </glyph>

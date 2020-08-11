@@ -1,64 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="700"/>
+  <advance width="732"/>
   <unicode hex="004B"/>
+  <guideline x="710" y="234" angle="90" identifier="Y0Cig6xSGY"/>
   <outline>
     <contour>
-      <point x="212" y="698" type="line"/>
-      <point x="212" y="57" type="line"/>
-      <point x="180" y="92" type="line"/>
-      <point x="299" y="64" type="line"/>
-      <point x="299" y="0" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="64" type="line"/>
-      <point x="158" y="93" type="line"/>
-      <point x="124" y="65" type="line"/>
-      <point x="124" y="690" type="line"/>
-      <point x="153" y="648" type="line"/>
-      <point x="50" y="676" type="line"/>
-      <point x="50" y="740" type="line"/>
-      <point x="289" y="740" type="line"/>
-      <point x="289" y="676" type="line"/>
-      <point x="180" y="648" type="line"/>
+      <point x="448" y="301" type="line"/>
+      <point x="448" y="405" type="line"/>
+      <point x="477" y="405" type="line"/>
+      <point x="477" y="301" type="line"/>
     </contour>
     <contour>
-      <point x="418" y="0" type="line"/>
-      <point x="418" y="63" type="line"/>
-      <point x="541" y="92" type="line"/>
-      <point x="571" y="0" type="line"/>
+      <point x="421" y="322" type="line"/>
+      <point x="190" y="322" type="line"/>
+      <point x="190" y="410" type="line"/>
+      <point x="421" y="410" type="line"/>
     </contour>
     <contour>
-      <point x="210" y="335" type="line"/>
-      <point x="210" y="415" type="line"/>
-      <point x="364" y="415" type="line"/>
-      <point x="364" y="335" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="64" type="line"/>
+      <point x="153" y="102" type="line"/>
+      <point x="130" y="62" type="line"/>
+      <point x="130" y="678" type="line"/>
+      <point x="153" y="638" type="line"/>
+      <point x="45" y="676" type="line"/>
+      <point x="45" y="740" type="line"/>
+      <point x="300" y="740" type="line"/>
+      <point x="300" y="676" type="line"/>
+      <point x="181" y="639" type="line"/>
+      <point x="212" y="678" type="line"/>
+      <point x="212" y="62" type="line"/>
+      <point x="183" y="101" type="line"/>
+      <point x="300" y="64" type="line"/>
+      <point x="300" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="331" y="377" type="line"/>
-      <point x="528" y="676" type="line"/>
-      <point x="517" y="651" type="line"/>
-      <point x="405" y="676" type="line"/>
-      <point x="405" y="740" type="line"/>
-      <point x="679" y="740" type="line"/>
-      <point x="679" y="676" type="line"/>
-      <point x="576" y="643" type="line"/>
-      <point x="610" y="669" type="line"/>
-      <point x="427" y="392" type="line"/>
-      <point x="427" y="362" type="line"/>
-      <point x="604" y="69" type="line"/>
-      <point x="568" y="89" type="line"/>
-      <point x="709" y="69" type="line"/>
-      <point x="709" y="0" type="line"/>
-      <point x="559" y="0" type="line"/>
+      <point x="582" y="59" type="line"/>
+      <point x="401" y="340" type="line"/>
+      <point x="372" y="343" type="line"/>
+      <point x="570" y="690" type="line"/>
+      <point x="577" y="636" type="line"/>
+      <point x="448" y="676" type="line"/>
+      <point x="448" y="740" type="line"/>
+      <point x="721" y="740" type="line"/>
+      <point x="721" y="676" type="line"/>
+      <point x="603" y="637" type="line"/>
+      <point x="646" y="660" type="line"/>
+      <point x="441" y="298" type="line"/>
+      <point x="475" y="378" type="line"/>
+      <point x="678" y="60" type="line"/>
+      <point x="620" y="109" type="line"/>
+      <point x="738" y="66" type="line"/>
+      <point x="738" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="471" y="64" type="line"/>
+      <point x="572" y="102" type="line"/>
     </contour>
+    <component base="space"/>
   </outline>
-  <guideline angle="0" x="0" y="84"/>
-  <guideline angle="90" x="699" y="0"/>
-  <guideline angle="0" x="0" y="654"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.212,0.316,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6433,0.837,0.9473,1</string>
+    </dict>
   </lib>
 </glyph>
