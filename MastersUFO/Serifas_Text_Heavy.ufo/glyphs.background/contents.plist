@@ -112,14 +112,10 @@
     <string>r.alt.glif</string>
     <key>s</key>
     <string>s.glif</string>
-    <key>six</key>
-    <string>six.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>t</key>
     <string>t.glif</string>
-    <key>three</key>
-    <string>three.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>udieresis</key>
@@ -134,7 +130,5 @@
     <string>y.glif</string>
     <key>z</key>
     <string>z.glif</string>
-    <key>zero</key>
-    <string>zero.glif</string>
   </dict>
 </plist>

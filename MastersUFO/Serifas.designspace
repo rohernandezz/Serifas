@@ -19,6 +19,15 @@
       </location>
     </source>
   </sources>
+  <instances>
+    <instance familyname="Acrata" stylename="Boldish" filename="instances/Acrata-Style_1.ufo">
+      <location>
+        <dimension name="weight" xvalue="675"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
   <lib>
     <dict>
       <key>com.letterror.mathModelPref</key>

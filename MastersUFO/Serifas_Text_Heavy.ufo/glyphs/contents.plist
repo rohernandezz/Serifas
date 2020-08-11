@@ -76,8 +76,14 @@
     <string>dotlessi.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>eight</key>
+    <string>eight.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>five</key>
+    <string>five.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>g.alt</key>
@@ -100,6 +106,8 @@
     <string>m.glif</string>
     <key>n</key>
     <string>n.glif</string>
+    <key>nine</key>
+    <string>nine.glif</string>
     <key>ntilde</key>
     <string>ntilde.glif</string>
     <key>o</key>
@@ -118,6 +126,8 @@
     <string>r.alt.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>seven</key>
+    <string>seven.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>space</key>
@@ -126,6 +136,8 @@
     <string>t.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>udieresis</key>
