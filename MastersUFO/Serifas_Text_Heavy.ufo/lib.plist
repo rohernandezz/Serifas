@@ -86,6 +86,22 @@
         </dict>
       </dict>
     </dict>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>public.default</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/TamaraSegura/Desktop/Serifas_Text_Heavy_2.otf</string>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
