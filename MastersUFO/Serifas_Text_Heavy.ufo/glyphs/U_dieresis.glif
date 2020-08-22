@@ -1,22 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udieresis" format="2">
   <advance width="816"/>
   <unicode hex="00DC"/>
+  <guideline x="0" y="831" angle="0" identifier="qbqYxM07C8"/>
+  <guideline x="0" y="1008" angle="0" identifier="9wwJCcSqYF"/>
   <outline>
     <component base="U"/>
-    <contour>
-      <point x="99.848" y="835.058" type="line"/>
-      <point x="232" y="835.058" type="line"/>
-      <point x="232" y="947.465" type="line"/>
-      <point x="99.848" y="947.465" type="line"/>
-    </contour>
-    <contour>
-      <point x="559.848" y="830.771" type="line"/>
-      <point x="692" y="830.771" type="line"/>
-      <point x="692" y="943.178" type="line"/>
-      <point x="559.848" y="943.178" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="216" yOffset="180"/>
   </outline>
-  <guideline angle="0" x="0" y="831"/>
-  <guideline angle="0" x="0" y="1008"/>
 </glyph>
