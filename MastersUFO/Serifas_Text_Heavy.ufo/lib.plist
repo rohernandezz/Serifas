@@ -184,6 +184,7 @@
       <string>period</string>
       <string>dieresis</string>
       <string>acute</string>
+      <string>dotaccent</string>
       <string>space</string>
       <string>.notdef</string>
       <string>_1</string>

@@ -5,28 +5,28 @@
   <guideline x="0" y="289" angle="0" identifier="wNwt7PKC1l"/>
   <outline>
     <contour>
-      <point x="466" y="557" type="line"/>
+      <point x="436" y="557" type="line"/>
       <point x="595" y="97" type="line"/>
       <point x="595" y="192" type="line"/>
-      <point x="487" y="153" type="line"/>
-      <point x="487" y="0" type="line"/>
+      <point x="477" y="153" type="line"/>
+      <point x="477" y="0" type="line"/>
       <point x="802" y="0" type="line"/>
       <point x="802" y="152" type="line"/>
       <point x="701" y="189" type="line"/>
       <point x="730" y="140" type="line"/>
-      <point x="566" y="740" type="line"/>
+      <point x="536" y="740" type="line"/>
       <point x="104" y="740" type="line"/>
       <point x="104" y="588" type="line"/>
-      <point x="222" y="557" type="line"/>
+      <point x="252" y="557" type="line"/>
       <point x="87" y="97" type="line"/>
       <point x="160" y="200" type="line"/>
       <point x="30" y="152" type="line"/>
       <point x="30" y="0" type="line"/>
-      <point x="358" y="0" type="line"/>
-      <point x="358" y="152" type="line"/>
-      <point x="258" y="191" type="line"/>
-      <point x="249" y="98" type="line"/>
-      <point x="372" y="557" type="line"/>
+      <point x="363" y="0" type="line"/>
+      <point x="363" y="152" type="line"/>
+      <point x="246" y="191" type="line"/>
+      <point x="237" y="98" type="line"/>
+      <point x="390" y="557" type="line"/>
     </contour>
     <contour>
       <point x="225" y="248" type="line"/>

@@ -64,8 +64,6 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
-    <key>_1</key>
-    <string>_1.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>aacute</key>
@@ -86,6 +84,8 @@
     <string>d.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>dotaccent</key>
+    <string>dotaccent.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eacute</key>
