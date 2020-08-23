@@ -13,128 +13,60 @@
     <key>guidelines</key>
     <array>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
         <key>identifier</key>
-        <string>gWumJlxXAU</string>
+        <string>6r9nULKrNq</string>
         <key>name</key>
         <string>m</string>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>250</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
         <key>identifier</key>
-        <string>p5TfqFsCZY</string>
-        <key>name</key>
-        <string>m</string>
-        <key>x</key>
-        <integer>0</integer>
-        <key>y</key>
-        <integer>250</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>6mrqIFpfch</string>
-        <key>name</key>
-        <string>m</string>
-        <key>x</key>
-        <integer>0</integer>
-        <key>y</key>
-        <integer>250</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>jHyVP2XjGW</string>
+        <string>UC2yEQjRH4</string>
         <key>name</key>
         <string>f1</string>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>30</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
         <key>identifier</key>
-        <string>BQmTCoiYFQ</string>
+        <string>iQpqLx8f8T</string>
         <key>name</key>
         <string>f2</string>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>384</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
         <key>identifier</key>
-        <string>kXBOfz46HE</string>
+        <string>ELQahTG02D</string>
         <key>name</key>
         <string>f3</string>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>184</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
         <key>identifier</key>
-        <string>MDQA9cyKYW</string>
+        <string>2aPutEkTsw</string>
         <key>name</key>
         <string>f4</string>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>346</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
         <key>identifier</key>
-        <string>b6wW6LkZ3G</string>
+        <string>jw9XOEuw9T</string>
         <key>name</key>
         <string>f5</string>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>588</integer>
       </dict>
       <dict>
-        <key>angle</key>
-        <integer>0</integer>
         <key>identifier</key>
-        <string>ahPnHx7i9i</string>
+        <string>upZUcnDYoI</string>
         <key>name</key>
         <string>f6</string>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>557</integer>
-      </dict>
-    </array>
-    <key>italicAngle</key>
-    <integer>0</integer>
-    <key>openTypeGaspRangeRecords</key>
-    <array>
-      <dict>
-        <key>rangeGaspBehavior</key>
-        <array>
-          <integer>0</integer>
-          <integer>1</integer>
-          <integer>2</integer>
-          <integer>3</integer>
-        </array>
-        <key>rangeMaxPPEM</key>
-        <integer>65535</integer>
       </dict>
     </array>
     <key>openTypeHeadCreated</key>
@@ -222,8 +154,6 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
-    <key>postscriptWeightName</key>
-    <string>Regular</string>
     <key>styleMapFamilyName</key>
     <string>Acrata Headline Beta 2</string>
     <key>styleMapStyleName</key>
