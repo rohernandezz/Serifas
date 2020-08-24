@@ -2,7 +2,7 @@
 <glyph name="semicolon" format="2">
 	<advance width="316"/>
 	<unicode hex="003B"/>
-	<guideline x="36"/>
+	<guideline x="36" y="0" angle="0"/>
 	<outline>
 		<contour>
 			<point x="151.342" y="336.008" type="curve" smooth="yes"/>

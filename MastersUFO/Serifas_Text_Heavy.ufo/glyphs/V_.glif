@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="2">
-	<advance width="828"/>
+	<advance width="834"/>
 	<unicode hex="0056"/>
 	<outline>
 		<contour>
-			<point x="798" y="584" type="line"/>
-			<point x="798" y="740" type="line"/>
-			<point x="470" y="740" type="line"/>
-			<point x="470" y="594" type="line"/>
-			<point x="594" y="541" type="line"/>
-			<point x="566" y="589" type="line"/>
-			<point x="413" y="151" type="line"/>
-			<point x="476" y="191" type="line"/>
-			<point x="356" y="191" type="line"/>
-			<point x="426" y="151" type="line"/>
-			<point x="269" y="589" type="line"/>
-			<point x="229" y="531" type="line"/>
-			<point x="352" y="594" type="line"/>
-			<point x="352" y="740" type="line"/>
-			<point x="22" y="740" type="line"/>
-			<point x="22" y="584" type="line"/>
-			<point x="139" y="533" type="line"/>
-			<point x="90" y="588" type="line"/>
-			<point x="317" y="0" type="line"/>
-			<point x="508" y="0" type="line"/>
-			<point x="726" y="588" type="line"/>
-			<point x="679" y="536" type="line"/>
+			<point x="822" y="584" type="line"/>
+			<point x="822" y="740" type="line"/>
+			<point x="474" y="740" type="line"/>
+			<point x="474" y="594" type="line"/>
+			<point x="598" y="541" type="line"/>
+			<point x="560" y="589" type="line"/>
+			<point x="415" y="151" type="line"/>
+			<point x="468" y="191" type="line"/>
+			<point x="368" y="191" type="line"/>
+			<point x="428" y="151" type="line"/>
+			<point x="283" y="589" type="line"/>
+			<point x="233" y="531" type="line"/>
+			<point x="376" y="594" type="line"/>
+			<point x="376" y="740" type="line"/>
+			<point x="12" y="740" type="line"/>
+			<point x="12" y="584" type="line"/>
+			<point x="143" y="533" type="line"/>
+			<point x="84" y="588" type="line"/>
+			<point x="319" y="0" type="line"/>
+			<point x="510" y="0" type="line"/>
+			<point x="750" y="588" type="line"/>
+			<point x="683" y="536" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-08-24 22:13:16 +0000</string>
+			<string>2020-08-24 23:22:07 +0000</string>
 		</dict>
 	</lib>
 </glyph>

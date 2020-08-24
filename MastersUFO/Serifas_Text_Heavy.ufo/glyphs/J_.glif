@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-	<advance width="699"/>
+	<advance width="610"/>
 	<unicode hex="004A"/>
 	<outline>
 		<contour>
-			<point x="142" y="199" type="curve"/>
-			<point x="76" y="67" type="line"/>
-			<point x="134" y="29"/>
-			<point x="208" y="-18"/>
-			<point x="301" y="-18" type="curve"/>
-			<point x="471" y="-18"/>
-			<point x="553" y="76"/>
-			<point x="553" y="283" type="curve"/>
-			<point x="553" y="693" type="line"/>
-			<point x="510" y="548" type="line"/>
-			<point x="664" y="594" type="line"/>
-			<point x="664" y="740" type="line"/>
-			<point x="220" y="740" type="line"/>
-			<point x="220" y="584" type="line"/>
-			<point x="474" y="532" type="line"/>
-			<point x="389" y="686" type="line"/>
-			<point x="389" y="324" type="line"/>
-			<point x="389" y="215"/>
-			<point x="360" y="166"/>
-			<point x="278" y="166" type="curve"/>
-			<point x="231" y="166"/>
-			<point x="182" y="184"/>
+			<point x="72" y="199" type="curve"/>
+			<point x="6" y="67" type="line"/>
+			<point x="64" y="29"/>
+			<point x="138" y="-18"/>
+			<point x="231" y="-18" type="curve"/>
+			<point x="401" y="-18"/>
+			<point x="483" y="76"/>
+			<point x="483" y="283" type="curve"/>
+			<point x="483" y="693" type="line"/>
+			<point x="440" y="548" type="line"/>
+			<point x="594" y="594" type="line"/>
+			<point x="594" y="740" type="line"/>
+			<point x="150" y="740" type="line"/>
+			<point x="150" y="584" type="line"/>
+			<point x="404" y="532" type="line"/>
+			<point x="319" y="686" type="line"/>
+			<point x="319" y="324" type="line"/>
+			<point x="319" y="215"/>
+			<point x="290" y="166"/>
+			<point x="208" y="166" type="curve"/>
+			<point x="161" y="166"/>
+			<point x="112" y="184"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-08-24 21:41:02 +0000</string>
+			<string>2020-08-24 23:00:07 +0000</string>
 			<key>public.markColor</key>
 			<string>1,0.6,0.6,0</string>
 		</dict>
