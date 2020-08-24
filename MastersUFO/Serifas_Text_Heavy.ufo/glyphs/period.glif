@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-  <advance width="306"/>
-  <unicode hex="002E"/>
-  <outline>
-    <contour>
-      <point x="151.342" y="-14" type="curve" smooth="yes"/>
-      <point x="240.836" y="-14"/>
-      <point x="267.684" y="12.8482"/>
-      <point x="267.684" y="100.552" type="curve" smooth="yes"/>
-      <point x="267.684" y="188.256"/>
-      <point x="240.836" y="211.525"/>
-      <point x="151.342" y="211.525" type="curve" smooth="yes"/>
-      <point x="61.8482" y="211.525"/>
-      <point x="35" y="188.256"/>
-      <point x="35" y="100.552" type="curve" smooth="yes"/>
-      <point x="35" y="12.8482"/>
-      <point x="61.8482" y="-14"/>
-    </contour>
-  </outline>
+	<advance width="306"/>
+	<unicode hex="002E"/>
+	<outline>
+		<contour>
+			<point x="151.342" y="-14" type="curve" smooth="yes"/>
+			<point x="240.836" y="-14"/>
+			<point x="267.684" y="12.8482"/>
+			<point x="267.684" y="100.552" type="curve" smooth="yes"/>
+			<point x="267.684" y="188.256"/>
+			<point x="240.836" y="211.525"/>
+			<point x="151.342" y="211.525" type="curve" smooth="yes"/>
+			<point x="61.8482" y="211.525"/>
+			<point x="35" y="188.256"/>
+			<point x="35" y="100.552" type="curve" smooth="yes"/>
+			<point x="35" y="12.8482"/>
+			<point x="61.8482" y="-14"/>
+		</contour>
+	</outline>
 </glyph>

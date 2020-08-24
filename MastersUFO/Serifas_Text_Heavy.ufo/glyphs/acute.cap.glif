@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute.cap" format="2">
-  <advance width="500"/>
-  <outline>
-    <contour>
-      <point x="152" y="873" type="line"/>
-      <point x="208" y="827" type="line"/>
-      <point x="399" y="957" type="line"/>
-      <point x="266" y="1078" type="line"/>
-    </contour>
-  </outline>
+	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="152" y="873" type="line"/>
+			<point x="208" y="827" type="line"/>
+			<point x="399" y="957" type="line"/>
+			<point x="266" y="1078" type="line"/>
+		</contour>
+	</outline>
 </glyph>

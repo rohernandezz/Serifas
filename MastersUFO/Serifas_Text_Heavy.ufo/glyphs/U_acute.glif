@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="2">
-  <advance width="835"/>
-  <unicode hex="00DA"/>
-  <outline>
-    <component base="U" xOffset="-6"/>
-    <component base="acute.cap" xOffset="145.5"/>
-  </outline>
+	<advance width="835"/>
+	<unicode hex="00DA"/>
+	<outline>
+		<component base="U"/>
+		<component base="acute.cap" xOffset="145.500"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-08-24 18:13:32 +0000</string>
+		</dict>
+	</lib>
 </glyph>

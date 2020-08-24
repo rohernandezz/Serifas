@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="2">
-  <advance width="606"/>
-  <unicode hex="00F3"/>
-  <outline>
-    <component base="o" xOffset="8"/>
-    <component base="acute" xScale="0.9525" yScale="0.9525" xOffset="93.5964" yOffset="30.7101"/>
-  </outline>
+	<advance width="606"/>
+	<unicode hex="00F3"/>
+	<outline>
+		<component base="o"/>
+		<component base="acute" xScale="0.9525" yScale="0.9525" xOffset="93.596" yOffset="30.710"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-08-24 18:13:32 +0000</string>
+		</dict>
+	</lib>
 </glyph>

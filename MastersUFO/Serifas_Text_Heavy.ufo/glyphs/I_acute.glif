@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="2">
-  <advance width="431"/>
-  <unicode hex="00CD"/>
-  <outline>
-    <component base="I" xOffset="-2"/>
-    <component base="acute.cap" xOffset="-56.5"/>
-  </outline>
+	<advance width="431"/>
+	<unicode hex="00CD"/>
+	<outline>
+		<component base="I"/>
+		<component base="acute.cap" xOffset="-56.500"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-08-24 18:13:32 +0000</string>
+		</dict>
+	</lib>
 </glyph>

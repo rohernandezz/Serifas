@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis" format="2">
-  <advance width="842"/>
-  <unicode hex="00C4"/>
-  <outline>
-    <component base="A"/>
-    <component base="dieresis" xOffset="220" yOffset="200"/>
-  </outline>
-  <guideline angle="0" x="0" y="289"/>
+	<advance width="842"/>
+	<unicode hex="00C4"/>
+	<guideline y="289"/>
+	<outline>
+		<component base="A"/>
+		<component base="dieresis" xOffset="220" yOffset="200"/>
+	</outline>
 </glyph>
