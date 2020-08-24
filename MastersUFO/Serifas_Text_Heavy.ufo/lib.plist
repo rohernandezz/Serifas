@@ -219,10 +219,12 @@
       <string>C</string>
       <string>D</string>
       <string>E</string>
+      <string>Eacute</string>
       <string>F</string>
       <string>G</string>
       <string>H</string>
       <string>I</string>
+      <string>Iacute</string>
       <string>J</string>
       <string>K</string>
       <string>L</string>
@@ -230,18 +232,22 @@
       <string>N</string>
       <string>Ntilde</string>
       <string>O</string>
+      <string>Oacute</string>
       <string>P</string>
       <string>Q</string>
       <string>R</string>
       <string>S</string>
       <string>T</string>
       <string>U</string>
+      <string>Uacute</string>
       <string>Udieresis</string>
       <string>V</string>
       <string>W</string>
       <string>X</string>
       <string>Y</string>
       <string>Z</string>
+      <string>AE</string>
+      <string>OE</string>
       <string>K.alt</string>
       <string>a</string>
       <string>aacute</string>
@@ -276,21 +282,67 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>ae</string>
+      <string>dotlessi</string>
+      <string>oe</string>
+      <string>fi</string>
+      <string>fl</string>
       <string>b.alt</string>
       <string>g.alt</string>
       <string>r.alt</string>
       <string>zero</string>
       <string>one</string>
+      <string>two</string>
       <string>three</string>
+      <string>four</string>
+      <string>five</string>
       <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>onequarter</string>
+      <string>onehalf</string>
+      <string>threequarters</string>
+      <string>underscore</string>
       <string>hyphen</string>
+      <string>parenleft</string>
+      <string>bracketleft</string>
+      <string>braceleft</string>
+      <string>parenright</string>
+      <string>bracketright</string>
+      <string>braceright</string>
+      <string>quoteleft</string>
+      <string>quotedblleft</string>
+      <string>quoteright</string>
+      <string>quotedblright</string>
+      <string>exclam</string>
+      <string>quotedbl</string>
+      <string>numbersign</string>
+      <string>percent</string>
       <string>ampersand</string>
+      <string>quotesingle</string>
       <string>comma</string>
       <string>period</string>
+      <string>slash</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>question</string>
+      <string>exclamdown</string>
+      <string>periodcentered</string>
+      <string>questiondown</string>
+      <string>ellipsis</string>
+      <string>exclam.copy_1</string>
+      <string>grave</string>
       <string>dieresis</string>
+      <string>acute</string>
+      <string>dotaccent</string>
+      <string>tilde</string>
+      <string>acute.cap</string>
       <string>space</string>
+      <string>*</string>
       <string>.notdef</string>
       <string>_1</string>
+      <string>notfed</string>
     </array>
   </dict>
 </plist>
